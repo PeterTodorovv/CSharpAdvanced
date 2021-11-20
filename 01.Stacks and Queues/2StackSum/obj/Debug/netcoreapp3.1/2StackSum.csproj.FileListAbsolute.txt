@@ -1,0 +1,14 @@
+C:\Users\peter\source\repos\01.Stacks and Queues\2StackSum\bin\Debug\netcoreapp3.1\2StackSum.exe
+C:\Users\peter\source\repos\01.Stacks and Queues\2StackSum\bin\Debug\netcoreapp3.1\2StackSum.deps.json
+C:\Users\peter\source\repos\01.Stacks and Queues\2StackSum\bin\Debug\netcoreapp3.1\2StackSum.runtimeconfig.json
+C:\Users\peter\source\repos\01.Stacks and Queues\2StackSum\bin\Debug\netcoreapp3.1\2StackSum.runtimeconfig.dev.json
+C:\Users\peter\source\repos\01.Stacks and Queues\2StackSum\bin\Debug\netcoreapp3.1\2StackSum.dll
+C:\Users\peter\source\repos\01.Stacks and Queues\2StackSum\bin\Debug\netcoreapp3.1\2StackSum.pdb
+C:\Users\peter\source\repos\01.Stacks and Queues\2StackSum\obj\Debug\netcoreapp3.1\2StackSum.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\01.Stacks and Queues\2StackSum\obj\Debug\netcoreapp3.1\2StackSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\source\repos\01.Stacks and Queues\2StackSum\obj\Debug\netcoreapp3.1\2StackSum.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\01.Stacks and Queues\2StackSum\obj\Debug\netcoreapp3.1\2StackSum.AssemblyInfo.cs
+C:\Users\peter\source\repos\01.Stacks and Queues\2StackSum\obj\Debug\netcoreapp3.1\2StackSum.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\01.Stacks and Queues\2StackSum\obj\Debug\netcoreapp3.1\2StackSum.dll
+C:\Users\peter\source\repos\01.Stacks and Queues\2StackSum\obj\Debug\netcoreapp3.1\2StackSum.pdb
+C:\Users\peter\source\repos\01.Stacks and Queues\2StackSum\obj\Debug\netcoreapp3.1\2StackSum.genruntimeconfig.cache

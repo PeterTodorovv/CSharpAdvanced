@@ -1,0 +1,13 @@
+C:\Users\peter\source\repos\01.Stacks and Queues\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.exe
+C:\Users\peter\source\repos\01.Stacks and Queues\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.deps.json
+C:\Users\peter\source\repos\01.Stacks and Queues\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.runtimeconfig.json
+C:\Users\peter\source\repos\01.Stacks and Queues\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.runtimeconfig.dev.json
+C:\Users\peter\source\repos\01.Stacks and Queues\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.dll
+C:\Users\peter\source\repos\01.Stacks and Queues\03.SimpleCalculator\bin\Debug\netcoreapp3.1\03.SimpleCalculator.pdb
+C:\Users\peter\source\repos\01.Stacks and Queues\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\source\repos\01.Stacks and Queues\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\01.Stacks and Queues\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.AssemblyInfo.cs
+C:\Users\peter\source\repos\01.Stacks and Queues\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\01.Stacks and Queues\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.dll
+C:\Users\peter\source\repos\01.Stacks and Queues\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.pdb
+C:\Users\peter\source\repos\01.Stacks and Queues\03.SimpleCalculator\obj\Debug\netcoreapp3.1\03.SimpleCalculator.genruntimeconfig.cache
