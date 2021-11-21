@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\peter\\source\\repos\\01.Stacks and Queues\\08.TrafficJam\\08.TrafficJam.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\08.TrafficJam\\08.TrafficJam.csproj",
       "projectName": "08.TrafficJam",
-      "projectPath": "C:\\Users\\peter\\source\\repos\\01.Stacks and Queues\\08.TrafficJam\\08.TrafficJam.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\08.TrafficJam\\08.TrafficJam.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\peter\\source\\repos\\01.Stacks and Queues\\08.TrafficJam\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\08.TrafficJam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

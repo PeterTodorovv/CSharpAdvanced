@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s3xR4+W3Q2SzX5W+pmQTh8Bvf8Rvl20ybaMWqW73DFxIZ8wib8Hzr45Cz1op2Mnldgw/f01b9nfO8+dYgz0VOA==",
+  "dgSpecHash": "MkG5fYeS18vKIpmFSQwnhH8zUsJLzJBy7ScQGBAztmmSz5xxaMHP/0QVkEmGDGeTcMGMWBZRDWd3zFCeSrb7hw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\peter\\source\\repos\\01.Stacks and Queues\\05.PrintEvenNumbers\\05.PrintEvenNumbers.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\05.PrintEvenNumbers\\05.PrintEvenNumbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

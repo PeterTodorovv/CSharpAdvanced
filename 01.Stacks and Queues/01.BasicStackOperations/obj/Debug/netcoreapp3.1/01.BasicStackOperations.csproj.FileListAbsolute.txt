@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\01.BasicStackOperations\bin\Debug\netcoreapp3.1\01.BasicStackOperations.exe
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\01.BasicStackOperations\bin\Debug\netcoreapp3.1\01.BasicStackOperations.deps.json
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\01.BasicStackOperations\bin\Debug\netcoreapp3.1\01.BasicStackOperations.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\01.BasicStackOperations\bin\Debug\netcoreapp3.1\01.BasicStackOperations.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\01.BasicStackOperations\bin\Debug\netcoreapp3.1\01.BasicStackOperations.dll
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\01.BasicStackOperations\bin\Debug\netcoreapp3.1\01.BasicStackOperations.pdb
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\01.BasicStackOperations\obj\Debug\netcoreapp3.1\01.BasicStackOperations.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\01.BasicStackOperations\obj\Debug\netcoreapp3.1\01.BasicStackOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\01.BasicStackOperations\obj\Debug\netcoreapp3.1\01.BasicStackOperations.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\01.BasicStackOperations\obj\Debug\netcoreapp3.1\01.BasicStackOperations.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\01.BasicStackOperations\obj\Debug\netcoreapp3.1\01.BasicStackOperations.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\01.BasicStackOperations\obj\Debug\netcoreapp3.1\01.BasicStackOperations.dll
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\01.BasicStackOperations\obj\Debug\netcoreapp3.1\01.BasicStackOperations.pdb
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\01.BasicStackOperations\obj\Debug\netcoreapp3.1\01.BasicStackOperations.genruntimeconfig.cache

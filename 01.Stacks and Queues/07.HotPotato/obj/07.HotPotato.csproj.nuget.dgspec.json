@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\peter\\source\\repos\\01.Stacks and Queues\\07.HotPotato\\07.HotPotato.csproj": {}
+    "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\07.HotPotato\\07.HotPotato.csproj": {}
   },
   "projects": {
-    "C:\\Users\\peter\\source\\repos\\01.Stacks and Queues\\07.HotPotato\\07.HotPotato.csproj": {
+    "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\07.HotPotato\\07.HotPotato.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peter\\source\\repos\\01.Stacks and Queues\\07.HotPotato\\07.HotPotato.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\07.HotPotato\\07.HotPotato.csproj",
         "projectName": "07.HotPotato",
-        "projectPath": "C:\\Users\\peter\\source\\repos\\01.Stacks and Queues\\07.HotPotato\\07.HotPotato.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\07.HotPotato\\07.HotPotato.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peter\\source\\repos\\01.Stacks and Queues\\07.HotPotato\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\07.HotPotato\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

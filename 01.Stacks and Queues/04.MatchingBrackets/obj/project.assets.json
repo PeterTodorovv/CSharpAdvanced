@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\peter\\source\\repos\\01.Stacks and Queues\\04.MatchingBrackets\\04.MatchingBrackets.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\04.MatchingBrackets\\04.MatchingBrackets.csproj",
       "projectName": "04.MatchingBrackets",
-      "projectPath": "C:\\Users\\peter\\source\\repos\\01.Stacks and Queues\\04.MatchingBrackets\\04.MatchingBrackets.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\04.MatchingBrackets\\04.MatchingBrackets.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\peter\\source\\repos\\01.Stacks and Queues\\04.MatchingBrackets\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\04.MatchingBrackets\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

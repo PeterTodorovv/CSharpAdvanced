@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wsWIHs5qsot+1lQNCHRgN1I8MyNkxjB5AvXMYRI9LTkRtycpCmhEFRfeaoCKfy9ntCCo1LQIokWWfClQEkHSDA==",
+  "dgSpecHash": "BynnlqO/jjl5XbMiZZxwItktKmeybjX3LIZNQoCJXzcWoq08kNhIdVCdObfo2mtIaW/qfn8fH3FjsWjA8nGCMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\peter\\source\\repos\\01.Stacks and Queues\\04.MatchingBrackets\\04.MatchingBrackets.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\04.MatchingBrackets\\04.MatchingBrackets.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

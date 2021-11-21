@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\peter\\source\\repos\\01.Stacks and Queues\\2StackSum\\02StackSum.csproj": {}
+    "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\2StackSum\\02StackSum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\peter\\source\\repos\\01.Stacks and Queues\\2StackSum\\02StackSum.csproj": {
+    "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\2StackSum\\02StackSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peter\\source\\repos\\01.Stacks and Queues\\2StackSum\\02StackSum.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\2StackSum\\02StackSum.csproj",
         "projectName": "02StackSum",
-        "projectPath": "C:\\Users\\peter\\source\\repos\\01.Stacks and Queues\\2StackSum\\02StackSum.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\2StackSum\\02StackSum.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peter\\source\\repos\\01.Stacks and Queues\\2StackSum\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\2StackSum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
