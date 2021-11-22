@@ -1,0 +1,13 @@
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.exe
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.deps.json
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.dll
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\06.SongsQueue\bin\Debug\netcoreapp3.1\06.SongsQueue.pdb
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.dll
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.pdb
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\06.SongsQueue\obj\Debug\netcoreapp3.1\06.SongsQueue.genruntimeconfig.cache

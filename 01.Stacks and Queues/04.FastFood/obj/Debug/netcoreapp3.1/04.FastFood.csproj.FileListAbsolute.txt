@@ -1,0 +1,13 @@
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.exe
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.deps.json
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.dll
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\04.FastFood\bin\Debug\netcoreapp3.1\04.FastFood.pdb
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.dll
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.pdb
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\04.FastFood\obj\Debug\netcoreapp3.1\04.FastFood.genruntimeconfig.cache

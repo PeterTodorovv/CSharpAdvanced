@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\03.MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.exe
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\03.MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.deps.json
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\03.MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\03.MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\03.MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.dll
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\03.MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.pdb
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\03.MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\03.MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\03.MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\03.MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\03.MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\03.MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.dll
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\03.MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.pdb
+D:\c#Code\softuniC#\advanced\01.Stacks and Queues\03.MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\03.MaximumAndMinimumElement.genruntimeconfig.cache
