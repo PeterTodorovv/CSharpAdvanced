@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace _07.TruckTour
+namespace _07.PascalTriangle
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
-
+            Console.WriteLine("Hello World!");
         }
     }
 }

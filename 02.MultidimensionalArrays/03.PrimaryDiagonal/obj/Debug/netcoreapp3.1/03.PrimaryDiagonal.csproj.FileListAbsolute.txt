@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\MultidimensionalArrays\03.PrimaryDiagonal\obj\Debug\netcoreapp3.1\03.PrimaryDiagonal.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\MultidimensionalArrays\03.PrimaryDiagonal\obj\Debug\netcoreapp3.1\03.PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\MultidimensionalArrays\03.PrimaryDiagonal\obj\Debug\netcoreapp3.1\03.PrimaryDiagonal.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\MultidimensionalArrays\03.PrimaryDiagonal\obj\Debug\netcoreapp3.1\03.PrimaryDiagonal.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\MultidimensionalArrays\03.PrimaryDiagonal\obj\Debug\netcoreapp3.1\03.PrimaryDiagonal.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\MultidimensionalArrays\03.PrimaryDiagonal\bin\Debug\netcoreapp3.1\03.PrimaryDiagonal.exe
+D:\c#Code\softuniC#\advanced\MultidimensionalArrays\03.PrimaryDiagonal\bin\Debug\netcoreapp3.1\03.PrimaryDiagonal.deps.json
+D:\c#Code\softuniC#\advanced\MultidimensionalArrays\03.PrimaryDiagonal\bin\Debug\netcoreapp3.1\03.PrimaryDiagonal.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\MultidimensionalArrays\03.PrimaryDiagonal\bin\Debug\netcoreapp3.1\03.PrimaryDiagonal.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\MultidimensionalArrays\03.PrimaryDiagonal\bin\Debug\netcoreapp3.1\03.PrimaryDiagonal.dll
+D:\c#Code\softuniC#\advanced\MultidimensionalArrays\03.PrimaryDiagonal\bin\Debug\netcoreapp3.1\03.PrimaryDiagonal.pdb
+D:\c#Code\softuniC#\advanced\MultidimensionalArrays\03.PrimaryDiagonal\obj\Debug\netcoreapp3.1\03.PrimaryDiagonal.dll
+D:\c#Code\softuniC#\advanced\MultidimensionalArrays\03.PrimaryDiagonal\obj\Debug\netcoreapp3.1\03.PrimaryDiagonal.pdb
+D:\c#Code\softuniC#\advanced\MultidimensionalArrays\03.PrimaryDiagonal\obj\Debug\netcoreapp3.1\03.PrimaryDiagonal.genruntimeconfig.cache
