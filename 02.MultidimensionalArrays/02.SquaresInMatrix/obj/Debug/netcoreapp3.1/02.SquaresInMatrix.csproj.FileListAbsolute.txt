@@ -1,0 +1,13 @@
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\02.SquaresInMatrix\bin\Debug\netcoreapp3.1\02.SquaresInMatrix.exe
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\02.SquaresInMatrix\bin\Debug\netcoreapp3.1\02.SquaresInMatrix.deps.json
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\02.SquaresInMatrix\bin\Debug\netcoreapp3.1\02.SquaresInMatrix.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\02.SquaresInMatrix\bin\Debug\netcoreapp3.1\02.SquaresInMatrix.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\02.SquaresInMatrix\bin\Debug\netcoreapp3.1\02.SquaresInMatrix.dll
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\02.SquaresInMatrix\bin\Debug\netcoreapp3.1\02.SquaresInMatrix.pdb
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\02.SquaresInMatrix\obj\Debug\netcoreapp3.1\02.SquaresInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\02.SquaresInMatrix\obj\Debug\netcoreapp3.1\02.SquaresInMatrix.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\02.SquaresInMatrix\obj\Debug\netcoreapp3.1\02.SquaresInMatrix.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\02.SquaresInMatrix\obj\Debug\netcoreapp3.1\02.SquaresInMatrix.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\02.SquaresInMatrix\obj\Debug\netcoreapp3.1\02.SquaresInMatrix.dll
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\02.SquaresInMatrix\obj\Debug\netcoreapp3.1\02.SquaresInMatrix.pdb
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\02.SquaresInMatrix\obj\Debug\netcoreapp3.1\02.SquaresInMatrix.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\MultidimensionalArrays\\01.SumMatrixElements\\01.SumMatrixElements.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\01.SumMatrixElements\\01.SumMatrixElements.csproj",
       "projectName": "01.SumMatrixElements",
-      "projectPath": "D:\\c#Code\\softuniC#\\advanced\\MultidimensionalArrays\\01.SumMatrixElements\\01.SumMatrixElements.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\01.SumMatrixElements\\01.SumMatrixElements.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "D:\\c#Code\\softuniC#\\advanced\\MultidimensionalArrays\\01.SumMatrixElements\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\01.SumMatrixElements\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

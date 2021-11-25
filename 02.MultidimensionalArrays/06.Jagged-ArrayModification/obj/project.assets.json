@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\MultidimensionalArrays\\06.Jagged-ArrayModification\\06.Jagged-ArrayModification.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\06.Jagged-ArrayModification\\06.Jagged-ArrayModification.csproj",
       "projectName": "06.Jagged-ArrayModification",
-      "projectPath": "D:\\c#Code\\softuniC#\\advanced\\MultidimensionalArrays\\06.Jagged-ArrayModification\\06.Jagged-ArrayModification.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\06.Jagged-ArrayModification\\06.Jagged-ArrayModification.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "D:\\c#Code\\softuniC#\\advanced\\MultidimensionalArrays\\06.Jagged-ArrayModification\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\06.Jagged-ArrayModification\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

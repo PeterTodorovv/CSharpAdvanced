@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\MultidimensionalArrays\\05.SquareWithMaximumSum\\05.SquareWithMaximumSum.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\05.SquareWithMaximumSum\\05.SquareWithMaximumSum.csproj",
       "projectName": "05.SquareWithMaximumSum",
-      "projectPath": "D:\\c#Code\\softuniC#\\advanced\\MultidimensionalArrays\\05.SquareWithMaximumSum\\05.SquareWithMaximumSum.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\05.SquareWithMaximumSum\\05.SquareWithMaximumSum.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "D:\\c#Code\\softuniC#\\advanced\\MultidimensionalArrays\\05.SquareWithMaximumSum\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\05.SquareWithMaximumSum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

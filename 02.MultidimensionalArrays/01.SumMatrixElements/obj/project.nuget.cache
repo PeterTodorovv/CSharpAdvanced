@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qny+/DGZHD7KeOIpnLaXXMKG4G4nBpYt5a1QpsNu39ew0vwzNKPVhtKwvWQLZjtzD/N6oSJLmUgSXxNi3YLmrA==",
+  "dgSpecHash": "sGjK3DJ9LOIvVCCUlMo+1Gu013av8rFOFyCsQRGTKkD8ZOz1JCk4Q8a0yYcMdE1sTHAuavpWC5ffiH40HcQQVg==",
   "success": true,
-  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\MultidimensionalArrays\\01.SumMatrixElements\\01.SumMatrixElements.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\01.SumMatrixElements\\01.SumMatrixElements.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.exe
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.deps.json
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.dll
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.pdb
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.dll
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.pdb
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.genruntimeconfig.cache

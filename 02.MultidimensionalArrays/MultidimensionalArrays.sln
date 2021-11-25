@@ -9,13 +9,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.SumMatrixColumns", "02.S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.PrimaryDiagonal", "03.PrimaryDiagonal\03.PrimaryDiagonal.csproj", "{A63AEE46-7FB6-4B87-AE2E-AB994C5787B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SymbolInMatrix", "04.SymbolInMatrix\04.SymbolInMatrix.csproj", "{0093A5B6-3FAC-4F2F-A823-FE8E330BFD1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.SymbolInMatrix", "04.SymbolInMatrix\04.SymbolInMatrix.csproj", "{0093A5B6-3FAC-4F2F-A823-FE8E330BFD1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SquareWithMaximumSum", "05.SquareWithMaximumSum\05.SquareWithMaximumSum.csproj", "{F6C61E79-B01A-49FA-8C20-82345C537240}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.SquareWithMaximumSum", "05.SquareWithMaximumSum\05.SquareWithMaximumSum.csproj", "{F6C61E79-B01A-49FA-8C20-82345C537240}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Jagged-ArrayModification", "06.Jagged-ArrayModification\06.Jagged-ArrayModification.csproj", "{6BDBA7F9-C104-4063-8F98-EBD893D2A9F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Jagged-ArrayModification", "06.Jagged-ArrayModification\06.Jagged-ArrayModification.csproj", "{6BDBA7F9-C104-4063-8F98-EBD893D2A9F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.PascalTriangle", "07.PascalTriangle\07.PascalTriangle.csproj", "{CEF386FB-A359-4928-9678-C561CC4DEB07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.PascalTriangle", "07.PascalTriangle\07.PascalTriangle.csproj", "{CEF386FB-A359-4928-9678-C561CC4DEB07}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.DiagonalDifference", "01.DiagonalDifference\01.DiagonalDifference.csproj", "{88A106C6-BBF5-4FA9-9D78-099B0A1DBD45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SquaresInMatrix", "02.SquaresInMatrix\02.SquaresInMatrix.csproj", "{61171D09-4E21-412E-8BA7-58729C03DB76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MaximalSum", "03.MaximalSum\03.MaximalSum.csproj", "{CE8286CE-8D87-4A38-B45F-049505071849}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{CEF386FB-A359-4928-9678-C561CC4DEB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEF386FB-A359-4928-9678-C561CC4DEB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEF386FB-A359-4928-9678-C561CC4DEB07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88A106C6-BBF5-4FA9-9D78-099B0A1DBD45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A106C6-BBF5-4FA9-9D78-099B0A1DBD45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A106C6-BBF5-4FA9-9D78-099B0A1DBD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A106C6-BBF5-4FA9-9D78-099B0A1DBD45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61171D09-4E21-412E-8BA7-58729C03DB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61171D09-4E21-412E-8BA7-58729C03DB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61171D09-4E21-412E-8BA7-58729C03DB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61171D09-4E21-412E-8BA7-58729C03DB76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE8286CE-8D87-4A38-B45F-049505071849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE8286CE-8D87-4A38-B45F-049505071849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE8286CE-8D87-4A38-B45F-049505071849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE8286CE-8D87-4A38-B45F-049505071849}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

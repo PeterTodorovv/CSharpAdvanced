@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#Code\\softuniC#\\advanced\\MultidimensionalArrays\\07.PascalTriangle\\07.PascalTriangle.csproj": {}
+    "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\07.PascalTriangle\\07.PascalTriangle.csproj": {}
   },
   "projects": {
-    "D:\\c#Code\\softuniC#\\advanced\\MultidimensionalArrays\\07.PascalTriangle\\07.PascalTriangle.csproj": {
+    "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\07.PascalTriangle\\07.PascalTriangle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\MultidimensionalArrays\\07.PascalTriangle\\07.PascalTriangle.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\07.PascalTriangle\\07.PascalTriangle.csproj",
         "projectName": "07.PascalTriangle",
-        "projectPath": "D:\\c#Code\\softuniC#\\advanced\\MultidimensionalArrays\\07.PascalTriangle\\07.PascalTriangle.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\07.PascalTriangle\\07.PascalTriangle.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "D:\\c#Code\\softuniC#\\advanced\\MultidimensionalArrays\\07.PascalTriangle\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\07.PascalTriangle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
