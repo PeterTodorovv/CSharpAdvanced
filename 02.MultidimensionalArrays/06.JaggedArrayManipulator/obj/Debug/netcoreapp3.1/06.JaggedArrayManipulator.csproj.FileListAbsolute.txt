@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06.JaggedArrayManipulator.exe
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06.JaggedArrayManipulator.deps.json
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06.JaggedArrayManipulator.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06.JaggedArrayManipulator.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06.JaggedArrayManipulator.dll
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\06.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\06.JaggedArrayManipulator.pdb
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06.JaggedArrayManipulator.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06.JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06.JaggedArrayManipulator.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06.JaggedArrayManipulator.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06.JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06.JaggedArrayManipulator.dll
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06.JaggedArrayManipulator.pdb
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\06.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\06.JaggedArrayManipulator.genruntimeconfig.cache

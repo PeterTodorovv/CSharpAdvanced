@@ -11,3 +11,4 @@ D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\02.SquaresInMatrix\obj\De
 D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\02.SquaresInMatrix\obj\Debug\netcoreapp3.1\02.SquaresInMatrix.dll
 D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\02.SquaresInMatrix\obj\Debug\netcoreapp3.1\02.SquaresInMatrix.pdb
 D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\02.SquaresInMatrix\obj\Debug\netcoreapp3.1\02.SquaresInMatrix.genruntimeconfig.cache
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\02.SquaresInMatrix\obj\Debug\netcoreapp3.1\02.SquaresInMatrix.csproj.AssemblyReference.cache

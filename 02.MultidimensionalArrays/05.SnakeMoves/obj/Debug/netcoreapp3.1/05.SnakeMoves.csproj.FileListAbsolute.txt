@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.SnakeMoves.exe
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.SnakeMoves.deps.json
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.SnakeMoves.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.SnakeMoves.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.SnakeMoves.dll
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.SnakeMoves.pdb
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.SnakeMoves.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.SnakeMoves.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.SnakeMoves.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.SnakeMoves.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.SnakeMoves.dll
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.SnakeMoves.pdb
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.SnakeMoves.genruntimeconfig.cache

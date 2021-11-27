@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\08.Bombs\bin\Debug\netcoreapp3.1\08.Bombs.exe
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\08.Bombs\bin\Debug\netcoreapp3.1\08.Bombs.deps.json
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\08.Bombs\bin\Debug\netcoreapp3.1\08.Bombs.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\08.Bombs\bin\Debug\netcoreapp3.1\08.Bombs.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\08.Bombs\bin\Debug\netcoreapp3.1\08.Bombs.dll
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\08.Bombs\bin\Debug\netcoreapp3.1\08.Bombs.pdb
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\08.Bombs\obj\Debug\netcoreapp3.1\08.Bombs.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\08.Bombs\obj\Debug\netcoreapp3.1\08.Bombs.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\08.Bombs\obj\Debug\netcoreapp3.1\08.Bombs.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\08.Bombs\obj\Debug\netcoreapp3.1\08.Bombs.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\08.Bombs\obj\Debug\netcoreapp3.1\08.Bombs.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\08.Bombs\obj\Debug\netcoreapp3.1\08.Bombs.dll
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\08.Bombs\obj\Debug\netcoreapp3.1\08.Bombs.pdb
+D:\c#Code\softuniC#\advanced\02.MultidimensionalArrays\08.Bombs\obj\Debug\netcoreapp3.1\08.Bombs.genruntimeconfig.cache

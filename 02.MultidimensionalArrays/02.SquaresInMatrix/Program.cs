@@ -33,7 +33,7 @@ namespace _02.SquaresInMatrix
 
             for(int row = 0; row < rows; row++)
             {
-                char[] input = Console.ReadLine().Split().Select(char.Parse).ToArray();
+                char[] input = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(char.Parse).ToArray();
                 for(int col = 0; col < cols; col++)
                 {
                     matrix[row, col] = input[col];
