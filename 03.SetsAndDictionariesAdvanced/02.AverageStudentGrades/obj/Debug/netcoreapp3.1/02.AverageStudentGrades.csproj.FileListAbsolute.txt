@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.exe
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.deps.json
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.dll
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.pdb
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.dll
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.pdb
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.genruntimeconfig.cache

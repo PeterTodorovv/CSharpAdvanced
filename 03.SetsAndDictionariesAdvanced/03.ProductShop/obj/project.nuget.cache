@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Vqf7x3U3ZGK6223wrmAHNcNOBCu4VCJpa7t9kB9VvPBm+Cd9yEHU1lgJZEXmPVyWr86vMx7pHQEcYtU/EcE/A==",
+  "success": true,
+  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\03.SetsAndDictionariesAdvanced\\03.ProductShop\\03.ProductShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

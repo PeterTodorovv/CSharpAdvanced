@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.exe
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.deps.json
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.dll
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.CountSameValuesInArray\bin\Debug\netcoreapp3.1\01.CountSameValuesInArray.pdb
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.dll
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.pdb
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.CountSameValuesInArray\obj\Debug\netcoreapp3.1\01.CountSameValuesInArray.genruntimeconfig.cache
