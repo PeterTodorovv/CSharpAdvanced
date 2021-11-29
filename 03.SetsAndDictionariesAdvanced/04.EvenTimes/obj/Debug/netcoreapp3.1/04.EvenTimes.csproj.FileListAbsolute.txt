@@ -1,0 +1,13 @@
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.exe
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.deps.json
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.dll
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\netcoreapp3.1\04.EvenTimes.pdb
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.dll
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.pdb
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\netcoreapp3.1\04.EvenTimes.genruntimeconfig.cache

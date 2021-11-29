@@ -1,0 +1,13 @@
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.exe
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.deps.json
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.dll
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\bin\Debug\netcoreapp3.1\01.UniqueUsernames.pdb
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.dll
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.pdb
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp3.1\01.UniqueUsernames.genruntimeconfig.cache

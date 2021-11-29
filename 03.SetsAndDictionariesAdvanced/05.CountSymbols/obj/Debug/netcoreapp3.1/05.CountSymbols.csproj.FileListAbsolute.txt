@@ -1,0 +1,13 @@
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.exe
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.deps.json
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.dll
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\05.CountSymbols\bin\Debug\netcoreapp3.1\05.CountSymbols.pdb
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.dll
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.pdb
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\05.CountSymbols\obj\Debug\netcoreapp3.1\05.CountSymbols.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.exe
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.deps.json
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.dll
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.SetsOfElements\bin\Debug\netcoreapp3.1\02.SetsOfElements.pdb
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.dll
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.pdb
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\02.SetsOfElements\obj\Debug\netcoreapp3.1\02.SetsOfElements.genruntimeconfig.cache
