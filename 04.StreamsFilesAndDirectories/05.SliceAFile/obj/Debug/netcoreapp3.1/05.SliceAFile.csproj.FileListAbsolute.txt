@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\05.SliceAFile\bin\Debug\netcoreapp3.1\05.SliceAFile.exe
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\05.SliceAFile\bin\Debug\netcoreapp3.1\05.SliceAFile.deps.json
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\05.SliceAFile\bin\Debug\netcoreapp3.1\05.SliceAFile.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\05.SliceAFile\bin\Debug\netcoreapp3.1\05.SliceAFile.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\05.SliceAFile\bin\Debug\netcoreapp3.1\05.SliceAFile.dll
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\05.SliceAFile\bin\Debug\netcoreapp3.1\05.SliceAFile.pdb
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.dll
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.pdb
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.genruntimeconfig.cache

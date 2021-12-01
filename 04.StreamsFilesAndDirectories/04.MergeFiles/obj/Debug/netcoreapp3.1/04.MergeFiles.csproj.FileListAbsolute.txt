@@ -1,0 +1,13 @@
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\04.MergeFiles\bin\Debug\netcoreapp3.1\04.MergeFiles.exe
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\04.MergeFiles\bin\Debug\netcoreapp3.1\04.MergeFiles.deps.json
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\04.MergeFiles\bin\Debug\netcoreapp3.1\04.MergeFiles.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\04.MergeFiles\bin\Debug\netcoreapp3.1\04.MergeFiles.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\04.MergeFiles\bin\Debug\netcoreapp3.1\04.MergeFiles.dll
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\04.MergeFiles\bin\Debug\netcoreapp3.1\04.MergeFiles.pdb
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.dll
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.pdb
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\04.MergeFiles\obj\Debug\netcoreapp3.1\04.MergeFiles.genruntimeconfig.cache

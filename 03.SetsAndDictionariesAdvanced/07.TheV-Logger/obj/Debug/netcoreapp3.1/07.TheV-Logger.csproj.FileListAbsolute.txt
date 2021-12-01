@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\07.TheV-Logger\bin\Debug\netcoreapp3.1\07.TheV-Logger.exe
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\07.TheV-Logger\bin\Debug\netcoreapp3.1\07.TheV-Logger.deps.json
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\07.TheV-Logger\bin\Debug\netcoreapp3.1\07.TheV-Logger.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\07.TheV-Logger\bin\Debug\netcoreapp3.1\07.TheV-Logger.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\07.TheV-Logger\bin\Debug\netcoreapp3.1\07.TheV-Logger.dll
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\07.TheV-Logger\bin\Debug\netcoreapp3.1\07.TheV-Logger.pdb
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\07.TheV-Logger\obj\Debug\netcoreapp3.1\07.TheV-Logger.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\07.TheV-Logger\obj\Debug\netcoreapp3.1\07.TheV-Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\07.TheV-Logger\obj\Debug\netcoreapp3.1\07.TheV-Logger.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\07.TheV-Logger\obj\Debug\netcoreapp3.1\07.TheV-Logger.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\07.TheV-Logger\obj\Debug\netcoreapp3.1\07.TheV-Logger.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\07.TheV-Logger\obj\Debug\netcoreapp3.1\07.TheV-Logger.dll
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\07.TheV-Logger\obj\Debug\netcoreapp3.1\07.TheV-Logger.pdb
+D:\c#Code\softuniC#\advanced\03.SetsAndDictionariesAdvanced\07.TheV-Logger\obj\Debug\netcoreapp3.1\07.TheV-Logger.genruntimeconfig.cache

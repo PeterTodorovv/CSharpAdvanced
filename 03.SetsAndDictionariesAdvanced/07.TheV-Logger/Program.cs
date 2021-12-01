@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace _07.TheV_Logger
 {
@@ -7,7 +8,7 @@ namespace _07.TheV_Logger
     {
         static void Main(string[] args)
         {
-            Dictionary<string, List<Dictionary<string, List<string>>>> vlogers = new Dictionary<string, List<Dictionary<string, List<string>>>>();
+            HashSet<Vlogger> vloggers = new HashSet<Vlogger>();
             string input = Console.ReadLine();
 
             while(input != "Statistics")
@@ -19,18 +20,53 @@ namespace _07.TheV_Logger
                 switch (action)
                 {
                     case "joined ":
-                        if (!vlogers.ContainsKey(name))
-                        {
-                            vlogers.Add(name, new List<Dictionary<string, List<string>>>());
-                            vlogers[name].Add("followers", new List<string>());
-                        }
+                        vloggers.Add(new Vlogger(name));
                         break;
                     case "followed":
+                        string name2 = splitted[2];
+                        if (name == name2)
+                            break;
+                        Vlogger vloger1 = vloggers.Where(v => v.Name == name).FirstOrDefault();
+                        vloger1.StartFollowing(name2);
+                        Vlogger vloger2 = vloggers.Where(v => v.Name == name2).FirstOrDefault();
+                        vloger2.GetsFolloed(name);
                         break;
-                }
-
+                }   
                 input = Console.ReadLine();
             }
+
+            int count = 0;
+
+            foreach(Vlogger vlogger in vloggers)
+            {
+                count++;
+                Console.WriteLine($"{count}. {vlogger.Name} : {vlogger.Followers.Count} followers, {vlogger.Follows.Count} followin");
+            }
+        }
+
+        public class Vlogger
+        {
+            public string Name { get; }
+            public SortedSet<string> Followers { get;}
+            public HashSet<string> Follows { get;}
+            public Vlogger(string name)
+            {
+                this.Name = name;
+                this.Followers = new SortedSet<string>();
+                this.Follows = new HashSet<string>();
+            }
+
+            public void StartFollowing(string name)
+            {
+                Follows.Add(name);
+            }
+
+            public void GetsFolloed(string name)
+            {
+                Followers.Add(name);
+            }
+
+
         }
     }
 }

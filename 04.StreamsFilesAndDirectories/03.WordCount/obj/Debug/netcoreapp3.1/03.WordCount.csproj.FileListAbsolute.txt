@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.exe
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.deps.json
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.dll
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\03.WordCount\bin\Debug\netcoreapp3.1\03.WordCount.pdb
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.dll
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.pdb
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\03.WordCount\obj\Debug\netcoreapp3.1\03.WordCount.genruntimeconfig.cache
