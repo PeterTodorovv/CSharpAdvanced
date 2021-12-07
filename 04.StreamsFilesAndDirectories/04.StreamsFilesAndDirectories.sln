@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.MergeFiles", "04.MergeFi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.FolderSize", "06.FolderSize\06.FolderSize.csproj", "{B713FF42-955A-4233-BF05-5260243D8752}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.EvenLines", "01.EvenLines\01.EvenLines.csproj", "{BFFAD333-A1D9-4726-A7B2-91E3A5DED516}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.EvenLines", "01.EvenLines\01.EvenLines.csproj", "{BFFAD333-A1D9-4726-A7B2-91E3A5DED516}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.LineNumbers2", "02.LineNumbers2\02.LineNumbers2.csproj", "{F938B144-A6C9-4B77-A884-19F9CE46BFCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{BFFAD333-A1D9-4726-A7B2-91E3A5DED516}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFFAD333-A1D9-4726-A7B2-91E3A5DED516}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFFAD333-A1D9-4726-A7B2-91E3A5DED516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F938B144-A6C9-4B77-A884-19F9CE46BFCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F938B144-A6C9-4B77-A884-19F9CE46BFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F938B144-A6C9-4B77-A884-19F9CE46BFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F938B144-A6C9-4B77-A884-19F9CE46BFCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
