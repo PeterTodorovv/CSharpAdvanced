@@ -9,6 +9,7 @@ namespace _02.LineNumbers2
         {
             var lines = File.ReadAllLines("../../../text.txt");
 
+            File.WriteAllLines("../../../", lines);
 
         }
     }

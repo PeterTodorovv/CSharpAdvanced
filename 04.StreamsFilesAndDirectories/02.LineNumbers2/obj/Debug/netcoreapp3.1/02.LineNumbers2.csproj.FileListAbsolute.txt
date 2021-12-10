@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\02.LineNumbers2\bin\Debug\netcoreapp3.1\02.LineNumbers2.exe
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\02.LineNumbers2\bin\Debug\netcoreapp3.1\02.LineNumbers2.deps.json
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\02.LineNumbers2\bin\Debug\netcoreapp3.1\02.LineNumbers2.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\02.LineNumbers2\bin\Debug\netcoreapp3.1\02.LineNumbers2.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\02.LineNumbers2\bin\Debug\netcoreapp3.1\02.LineNumbers2.dll
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\02.LineNumbers2\bin\Debug\netcoreapp3.1\02.LineNumbers2.pdb
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\02.LineNumbers2\obj\Debug\netcoreapp3.1\02.LineNumbers2.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\02.LineNumbers2\obj\Debug\netcoreapp3.1\02.LineNumbers2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\02.LineNumbers2\obj\Debug\netcoreapp3.1\02.LineNumbers2.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\02.LineNumbers2\obj\Debug\netcoreapp3.1\02.LineNumbers2.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\02.LineNumbers2\obj\Debug\netcoreapp3.1\02.LineNumbers2.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\02.LineNumbers2\obj\Debug\netcoreapp3.1\02.LineNumbers2.dll
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\02.LineNumbers2\obj\Debug\netcoreapp3.1\02.LineNumbers2.pdb
+D:\c#Code\softuniC#\advanced\04.StreamsFilesAndDirectories\02.LineNumbers2\obj\Debug\netcoreapp3.1\02.LineNumbers2.genruntimeconfig.cache
