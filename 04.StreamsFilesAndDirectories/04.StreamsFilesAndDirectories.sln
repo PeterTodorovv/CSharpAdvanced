@@ -17,7 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.FolderSize", "06.FolderS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.EvenLines", "01.EvenLines\01.EvenLines.csproj", "{BFFAD333-A1D9-4726-A7B2-91E3A5DED516}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.LineNumbers2", "02.LineNumbers2\02.LineNumbers2.csproj", "{F938B144-A6C9-4B77-A884-19F9CE46BFCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.LineNumbers2", "02.LineNumbers2\02.LineNumbers2.csproj", "{F938B144-A6C9-4B77-A884-19F9CE46BFCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.WordCount2.0", "03.WordCount2.0\03.WordCount2.0.csproj", "{F04DFD84-7EE0-4C38-83A1-EC1509BED95C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CopyBinaryFile", "04.CopyBinaryFile\04.CopyBinaryFile.csproj", "{231E9B9D-0DC6-407B-B9E5-84E08932BCD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{F938B144-A6C9-4B77-A884-19F9CE46BFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F938B144-A6C9-4B77-A884-19F9CE46BFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F938B144-A6C9-4B77-A884-19F9CE46BFCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F04DFD84-7EE0-4C38-83A1-EC1509BED95C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04DFD84-7EE0-4C38-83A1-EC1509BED95C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04DFD84-7EE0-4C38-83A1-EC1509BED95C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04DFD84-7EE0-4C38-83A1-EC1509BED95C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{231E9B9D-0DC6-407B-B9E5-84E08932BCD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231E9B9D-0DC6-407B-B9E5-84E08932BCD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231E9B9D-0DC6-407B-B9E5-84E08932BCD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231E9B9D-0DC6-407B-B9E5-84E08932BCD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
