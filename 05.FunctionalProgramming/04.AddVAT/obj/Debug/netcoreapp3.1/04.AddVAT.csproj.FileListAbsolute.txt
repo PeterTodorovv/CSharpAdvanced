@@ -1,0 +1,14 @@
+C:\Users\peter\source\repos\05.FunctionalProgramming\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.exe
+C:\Users\peter\source\repos\05.FunctionalProgramming\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.deps.json
+C:\Users\peter\source\repos\05.FunctionalProgramming\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.runtimeconfig.json
+C:\Users\peter\source\repos\05.FunctionalProgramming\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.runtimeconfig.dev.json
+C:\Users\peter\source\repos\05.FunctionalProgramming\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.dll
+C:\Users\peter\source\repos\05.FunctionalProgramming\04.AddVAT\bin\Debug\netcoreapp3.1\04.AddVAT.pdb
+C:\Users\peter\source\repos\05.FunctionalProgramming\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\05.FunctionalProgramming\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\source\repos\05.FunctionalProgramming\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\05.FunctionalProgramming\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.AssemblyInfo.cs
+C:\Users\peter\source\repos\05.FunctionalProgramming\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\05.FunctionalProgramming\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.dll
+C:\Users\peter\source\repos\05.FunctionalProgramming\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.pdb
+C:\Users\peter\source\repos\05.FunctionalProgramming\04.AddVAT\obj\Debug\netcoreapp3.1\04.AddVAT.genruntimeconfig.cache

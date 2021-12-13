@@ -1,0 +1,13 @@
+C:\Users\peter\source\repos\05.FunctionalProgramming\02.SumNumbers\bin\Debug\netcoreapp3.1\02.SumNumbers.exe
+C:\Users\peter\source\repos\05.FunctionalProgramming\02.SumNumbers\bin\Debug\netcoreapp3.1\02.SumNumbers.deps.json
+C:\Users\peter\source\repos\05.FunctionalProgramming\02.SumNumbers\bin\Debug\netcoreapp3.1\02.SumNumbers.runtimeconfig.json
+C:\Users\peter\source\repos\05.FunctionalProgramming\02.SumNumbers\bin\Debug\netcoreapp3.1\02.SumNumbers.runtimeconfig.dev.json
+C:\Users\peter\source\repos\05.FunctionalProgramming\02.SumNumbers\bin\Debug\netcoreapp3.1\02.SumNumbers.dll
+C:\Users\peter\source\repos\05.FunctionalProgramming\02.SumNumbers\bin\Debug\netcoreapp3.1\02.SumNumbers.pdb
+C:\Users\peter\source\repos\05.FunctionalProgramming\02.SumNumbers\obj\Debug\netcoreapp3.1\02.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\source\repos\05.FunctionalProgramming\02.SumNumbers\obj\Debug\netcoreapp3.1\02.SumNumbers.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\05.FunctionalProgramming\02.SumNumbers\obj\Debug\netcoreapp3.1\02.SumNumbers.AssemblyInfo.cs
+C:\Users\peter\source\repos\05.FunctionalProgramming\02.SumNumbers\obj\Debug\netcoreapp3.1\02.SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\05.FunctionalProgramming\02.SumNumbers\obj\Debug\netcoreapp3.1\02.SumNumbers.dll
+C:\Users\peter\source\repos\05.FunctionalProgramming\02.SumNumbers\obj\Debug\netcoreapp3.1\02.SumNumbers.pdb
+C:\Users\peter\source\repos\05.FunctionalProgramming\02.SumNumbers\obj\Debug\netcoreapp3.1\02.SumNumbers.genruntimeconfig.cache
