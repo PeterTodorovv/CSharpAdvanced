@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\peter\\source\\repos\\05.FunctionalProgramming\\02.SumNumbers\\02.SumNumbers.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\02.SumNumbers\\02.SumNumbers.csproj",
       "projectName": "02.SumNumbers",
-      "projectPath": "C:\\Users\\peter\\source\\repos\\05.FunctionalProgramming\\02.SumNumbers\\02.SumNumbers.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\02.SumNumbers\\02.SumNumbers.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\peter\\source\\repos\\05.FunctionalProgramming\\02.SumNumbers\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\02.SumNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

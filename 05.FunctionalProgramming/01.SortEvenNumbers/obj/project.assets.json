@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\peter\\source\\repos\\05.FunctionalProgramming\\01.SortEvenNumbers\\01.SortEvenNumbers.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\01.SortEvenNumbers\\01.SortEvenNumbers.csproj",
       "projectName": "01.SortEvenNumbers",
-      "projectPath": "C:\\Users\\peter\\source\\repos\\05.FunctionalProgramming\\01.SortEvenNumbers\\01.SortEvenNumbers.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\01.SortEvenNumbers\\01.SortEvenNumbers.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\peter\\source\\repos\\05.FunctionalProgramming\\01.SortEvenNumbers\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\01.SortEvenNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

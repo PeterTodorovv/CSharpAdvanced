@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\peter\\source\\repos\\05.FunctionalProgramming\\05.FilterByAge\\05.FilterByAge.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\05.FilterByAge\\05.FilterByAge.csproj",
       "projectName": "05.FilterByAge",
-      "projectPath": "C:\\Users\\peter\\source\\repos\\05.FunctionalProgramming\\05.FilterByAge\\05.FilterByAge.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\05.FilterByAge\\05.FilterByAge.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\peter\\source\\repos\\05.FunctionalProgramming\\05.FilterByAge\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\05.FilterByAge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,13 @@
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\02.KnightsOfHonor\bin\Debug\netcoreapp3.1\02.KnightsOfHonor.exe
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\02.KnightsOfHonor\bin\Debug\netcoreapp3.1\02.KnightsOfHonor.deps.json
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\02.KnightsOfHonor\bin\Debug\netcoreapp3.1\02.KnightsOfHonor.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\02.KnightsOfHonor\bin\Debug\netcoreapp3.1\02.KnightsOfHonor.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\02.KnightsOfHonor\bin\Debug\netcoreapp3.1\02.KnightsOfHonor.dll
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\02.KnightsOfHonor\bin\Debug\netcoreapp3.1\02.KnightsOfHonor.pdb
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\02.KnightsOfHonor\obj\Debug\netcoreapp3.1\02.KnightsOfHonor.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\02.KnightsOfHonor\obj\Debug\netcoreapp3.1\02.KnightsOfHonor.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\02.KnightsOfHonor\obj\Debug\netcoreapp3.1\02.KnightsOfHonor.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\02.KnightsOfHonor\obj\Debug\netcoreapp3.1\02.KnightsOfHonor.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\02.KnightsOfHonor\obj\Debug\netcoreapp3.1\02.KnightsOfHonor.dll
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\02.KnightsOfHonor\obj\Debug\netcoreapp3.1\02.KnightsOfHonor.pdb
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\02.KnightsOfHonor\obj\Debug\netcoreapp3.1\02.KnightsOfHonor.genruntimeconfig.cache

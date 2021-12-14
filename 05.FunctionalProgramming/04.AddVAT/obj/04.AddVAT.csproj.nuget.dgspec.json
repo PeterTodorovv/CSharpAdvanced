@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\peter\\source\\repos\\05.FunctionalProgramming\\04.AddVAT\\04.AddVAT.csproj": {}
+    "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\04.AddVAT\\04.AddVAT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\peter\\source\\repos\\05.FunctionalProgramming\\04.AddVAT\\04.AddVAT.csproj": {
+    "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\04.AddVAT\\04.AddVAT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peter\\source\\repos\\05.FunctionalProgramming\\04.AddVAT\\04.AddVAT.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\04.AddVAT\\04.AddVAT.csproj",
         "projectName": "04.AddVAT",
-        "projectPath": "C:\\Users\\peter\\source\\repos\\05.FunctionalProgramming\\04.AddVAT\\04.AddVAT.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\04.AddVAT\\04.AddVAT.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peter\\source\\repos\\05.FunctionalProgramming\\04.AddVAT\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\04.AddVAT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

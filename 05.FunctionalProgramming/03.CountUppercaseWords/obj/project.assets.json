@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\peter\\source\\repos\\05.FunctionalProgramming\\03.CountUppercaseWords\\03.CountUppercaseWords.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\03.CountUppercaseWords\\03.CountUppercaseWords.csproj",
       "projectName": "03.CountUppercaseWords",
-      "projectPath": "C:\\Users\\peter\\source\\repos\\05.FunctionalProgramming\\03.CountUppercaseWords\\03.CountUppercaseWords.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\03.CountUppercaseWords\\03.CountUppercaseWords.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\peter\\source\\repos\\05.FunctionalProgramming\\03.CountUppercaseWords\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\03.CountUppercaseWords\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

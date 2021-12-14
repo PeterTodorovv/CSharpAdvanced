@@ -3,15 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SortEvenNumbers", "01.SortEvenNumbers\01.SortEvenNumbers.csproj", "{D1D22C69-8E45-40DB-A587-C3B9908CF4F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.SortEvenNumbers", "01.SortEvenNumbers\01.SortEvenNumbers.csproj", "{D1D22C69-8E45-40DB-A587-C3B9908CF4F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SumNumbers", "02.SumNumbers\02.SumNumbers.csproj", "{3CA0B247-0F92-4FC4-95B0-9C8EB4628627}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.SumNumbers", "02.SumNumbers\02.SumNumbers.csproj", "{3CA0B247-0F92-4FC4-95B0-9C8EB4628627}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CountUppercaseWords", "03.CountUppercaseWords\03.CountUppercaseWords.csproj", "{DE4665FC-7EDA-4A1F-A19D-99411A10B532}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.CountUppercaseWords", "03.CountUppercaseWords\03.CountUppercaseWords.csproj", "{DE4665FC-7EDA-4A1F-A19D-99411A10B532}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.AddVAT", "04.AddVAT\04.AddVAT.csproj", "{92ED210B-EE05-4046-937A-54687182C2D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.AddVAT", "04.AddVAT\04.AddVAT.csproj", "{92ED210B-EE05-4046-937A-54687182C2D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.FilterByAge", "05.FilterByAge\05.FilterByAge.csproj", "{F3E3268F-50D9-4D66-9AE1-247548D8F62B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.FilterByAge", "05.FilterByAge\05.FilterByAge.csproj", "{F3E3268F-50D9-4D66-9AE1-247548D8F62B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ActionPrint", "01.ActionPrint\01.ActionPrint.csproj", "{523EABF6-8C13-48AD-98EF-3532F96BD6BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.KnightsOfHonor", "02.KnightsOfHonor\02.KnightsOfHonor.csproj", "{8CA0021E-255D-47EB-9803-58B0F5956B26}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.CustomMinFunction", "03.CustomMinFunction\03.CustomMinFunction.csproj", "{94C77E11-8467-4EED-A530-2801F1AF30E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FindEvensOrOdds", "04.FindEvensOrOdds\04.FindEvensOrOdds.csproj", "{8E5D582F-B890-4389-A760-4B6E88E17FA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.AppliedArithmetics", "05.AppliedArithmetics\05.AppliedArithmetics.csproj", "{091F38DE-8DA8-42A0-9016-B40E68BFBAF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ReverseAndExclude", "06.ReverseAndExclude\06.ReverseAndExclude.csproj", "{020A4C73-1ABB-4CF4-8A74-A38A8127FE58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +51,30 @@ Global
 		{F3E3268F-50D9-4D66-9AE1-247548D8F62B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3E3268F-50D9-4D66-9AE1-247548D8F62B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3E3268F-50D9-4D66-9AE1-247548D8F62B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{523EABF6-8C13-48AD-98EF-3532F96BD6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523EABF6-8C13-48AD-98EF-3532F96BD6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523EABF6-8C13-48AD-98EF-3532F96BD6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523EABF6-8C13-48AD-98EF-3532F96BD6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA0021E-255D-47EB-9803-58B0F5956B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA0021E-255D-47EB-9803-58B0F5956B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA0021E-255D-47EB-9803-58B0F5956B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA0021E-255D-47EB-9803-58B0F5956B26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94C77E11-8467-4EED-A530-2801F1AF30E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C77E11-8467-4EED-A530-2801F1AF30E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C77E11-8467-4EED-A530-2801F1AF30E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C77E11-8467-4EED-A530-2801F1AF30E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E5D582F-B890-4389-A760-4B6E88E17FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5D582F-B890-4389-A760-4B6E88E17FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5D582F-B890-4389-A760-4B6E88E17FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5D582F-B890-4389-A760-4B6E88E17FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{091F38DE-8DA8-42A0-9016-B40E68BFBAF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{091F38DE-8DA8-42A0-9016-B40E68BFBAF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{091F38DE-8DA8-42A0-9016-B40E68BFBAF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{091F38DE-8DA8-42A0-9016-B40E68BFBAF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{020A4C73-1ABB-4CF4-8A74-A38A8127FE58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020A4C73-1ABB-4CF4-8A74-A38A8127FE58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020A4C73-1ABB-4CF4-8A74-A38A8127FE58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020A4C73-1ABB-4CF4-8A74-A38A8127FE58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\01.ActionPrint\bin\Debug\netcoreapp3.1\01.ActionPrint.exe
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\01.ActionPrint\bin\Debug\netcoreapp3.1\01.ActionPrint.deps.json
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\01.ActionPrint\bin\Debug\netcoreapp3.1\01.ActionPrint.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\01.ActionPrint\bin\Debug\netcoreapp3.1\01.ActionPrint.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\01.ActionPrint\bin\Debug\netcoreapp3.1\01.ActionPrint.dll
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\01.ActionPrint\bin\Debug\netcoreapp3.1\01.ActionPrint.pdb
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\01.ActionPrint\obj\Debug\netcoreapp3.1\01.ActionPrint.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\01.ActionPrint\obj\Debug\netcoreapp3.1\01.ActionPrint.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\01.ActionPrint\obj\Debug\netcoreapp3.1\01.ActionPrint.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\01.ActionPrint\obj\Debug\netcoreapp3.1\01.ActionPrint.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\01.ActionPrint\obj\Debug\netcoreapp3.1\01.ActionPrint.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\01.ActionPrint\obj\Debug\netcoreapp3.1\01.ActionPrint.dll
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\01.ActionPrint\obj\Debug\netcoreapp3.1\01.ActionPrint.pdb
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\01.ActionPrint\obj\Debug\netcoreapp3.1\01.ActionPrint.genruntimeconfig.cache
