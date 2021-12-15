@@ -1,0 +1,13 @@
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\07.PredicateForNames\bin\Debug\netcoreapp3.1\07.PredicateForNames.exe
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\07.PredicateForNames\bin\Debug\netcoreapp3.1\07.PredicateForNames.deps.json
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\07.PredicateForNames\bin\Debug\netcoreapp3.1\07.PredicateForNames.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\07.PredicateForNames\bin\Debug\netcoreapp3.1\07.PredicateForNames.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\07.PredicateForNames\bin\Debug\netcoreapp3.1\07.PredicateForNames.dll
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\07.PredicateForNames\bin\Debug\netcoreapp3.1\07.PredicateForNames.pdb
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\07.PredicateForNames\obj\Debug\netcoreapp3.1\07.PredicateForNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\07.PredicateForNames\obj\Debug\netcoreapp3.1\07.PredicateForNames.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\07.PredicateForNames\obj\Debug\netcoreapp3.1\07.PredicateForNames.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\07.PredicateForNames\obj\Debug\netcoreapp3.1\07.PredicateForNames.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\07.PredicateForNames\obj\Debug\netcoreapp3.1\07.PredicateForNames.dll
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\07.PredicateForNames\obj\Debug\netcoreapp3.1\07.PredicateForNames.pdb
+D:\c#Code\softuniC#\advanced\05.FunctionalProgramming\07.PredicateForNames\obj\Debug\netcoreapp3.1\07.PredicateForNames.genruntimeconfig.cache
