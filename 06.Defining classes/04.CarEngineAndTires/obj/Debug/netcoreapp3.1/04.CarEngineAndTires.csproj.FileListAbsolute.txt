@@ -1,0 +1,13 @@
+D:\c#Code\softuniC#\advanced\06.Defining classes\04.CarEngineAndTires\bin\Debug\netcoreapp3.1\04.CarEngineAndTires.exe
+D:\c#Code\softuniC#\advanced\06.Defining classes\04.CarEngineAndTires\bin\Debug\netcoreapp3.1\04.CarEngineAndTires.deps.json
+D:\c#Code\softuniC#\advanced\06.Defining classes\04.CarEngineAndTires\bin\Debug\netcoreapp3.1\04.CarEngineAndTires.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\06.Defining classes\04.CarEngineAndTires\bin\Debug\netcoreapp3.1\04.CarEngineAndTires.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\06.Defining classes\04.CarEngineAndTires\bin\Debug\netcoreapp3.1\04.CarEngineAndTires.dll
+D:\c#Code\softuniC#\advanced\06.Defining classes\04.CarEngineAndTires\bin\Debug\netcoreapp3.1\04.CarEngineAndTires.pdb
+D:\c#Code\softuniC#\advanced\06.Defining classes\04.CarEngineAndTires\obj\Debug\netcoreapp3.1\04.CarEngineAndTires.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\06.Defining classes\04.CarEngineAndTires\obj\Debug\netcoreapp3.1\04.CarEngineAndTires.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\06.Defining classes\04.CarEngineAndTires\obj\Debug\netcoreapp3.1\04.CarEngineAndTires.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\06.Defining classes\04.CarEngineAndTires\obj\Debug\netcoreapp3.1\04.CarEngineAndTires.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\06.Defining classes\04.CarEngineAndTires\obj\Debug\netcoreapp3.1\04.CarEngineAndTires.dll
+D:\c#Code\softuniC#\advanced\06.Defining classes\04.CarEngineAndTires\obj\Debug\netcoreapp3.1\04.CarEngineAndTires.pdb
+D:\c#Code\softuniC#\advanced\06.Defining classes\04.CarEngineAndTires\obj\Debug\netcoreapp3.1\04.CarEngineAndTires.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\06.Defining classes\03.CarConstructors\bin\Debug\netcoreapp3.1\03.CarConstructors.exe
+D:\c#Code\softuniC#\advanced\06.Defining classes\03.CarConstructors\bin\Debug\netcoreapp3.1\03.CarConstructors.deps.json
+D:\c#Code\softuniC#\advanced\06.Defining classes\03.CarConstructors\bin\Debug\netcoreapp3.1\03.CarConstructors.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\06.Defining classes\03.CarConstructors\bin\Debug\netcoreapp3.1\03.CarConstructors.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\06.Defining classes\03.CarConstructors\bin\Debug\netcoreapp3.1\03.CarConstructors.dll
+D:\c#Code\softuniC#\advanced\06.Defining classes\03.CarConstructors\bin\Debug\netcoreapp3.1\03.CarConstructors.pdb
+D:\c#Code\softuniC#\advanced\06.Defining classes\03.CarConstructors\obj\Debug\netcoreapp3.1\03.CarConstructors.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\06.Defining classes\03.CarConstructors\obj\Debug\netcoreapp3.1\03.CarConstructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\06.Defining classes\03.CarConstructors\obj\Debug\netcoreapp3.1\03.CarConstructors.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\06.Defining classes\03.CarConstructors\obj\Debug\netcoreapp3.1\03.CarConstructors.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\06.Defining classes\03.CarConstructors\obj\Debug\netcoreapp3.1\03.CarConstructors.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\06.Defining classes\03.CarConstructors\obj\Debug\netcoreapp3.1\03.CarConstructors.dll
+D:\c#Code\softuniC#\advanced\06.Defining classes\03.CarConstructors\obj\Debug\netcoreapp3.1\03.CarConstructors.pdb
+D:\c#Code\softuniC#\advanced\06.Defining classes\03.CarConstructors\obj\Debug\netcoreapp3.1\03.CarConstructors.genruntimeconfig.cache
