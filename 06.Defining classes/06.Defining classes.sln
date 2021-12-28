@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Car", "01.Car\01.Car.csproj", "{07E36300-9D8E-482C-9155-0EA8ED56FD94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Car", "01.Car\01.Car.csproj", "{07E36300-9D8E-482C-9155-0EA8ED56FD94}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{58F66A96-3D74-4C52-BAF6-BA42A4D36270}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CarExtension", "02.CarExtension\02.CarExtension.csproj", "{321ADFE7-061D-41C4-ABAA-2B7F7FBDB327}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.CarExtension", "02.CarExtension\02.CarExtension.csproj", "{321ADFE7-061D-41C4-ABAA-2B7F7FBDB327}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CarConstructors", "03.CarConstructors\03.CarConstructors.csproj", "{9D084EBF-A973-4BEC-B057-08820288AFA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.CarConstructors", "03.CarConstructors\03.CarConstructors.csproj", "{9D084EBF-A973-4BEC-B057-08820288AFA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CarEngineAndTires", "04.CarEngineAndTires\04.CarEngineAndTires.csproj", "{F6D2963A-1B32-43D1-9D19-3D560034A9FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.CarEngineAndTires", "04.CarEngineAndTires\04.CarEngineAndTires.csproj", "{F6D2963A-1B32-43D1-9D19-3D560034A9FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SpecialCars", "05.SpecialCars\05.SpecialCars.csproj", "{649E6B00-24AB-4D4B-A7B8-B6B9506D8B45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.SpecialCars", "05.SpecialCars\05.SpecialCars.csproj", "{649E6B00-24AB-4D4B-A7B8-B6B9506D8B45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Person", "person\01.Person.csproj", "{17E0218D-5409-412C-9EE5-F7D1D7E71B97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DateModifier", "05.DateModifier\05.DateModifier.csproj", "{4493F84F-C503-405A-A6D3-BEA75CDADC90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +45,14 @@ Global
 		{649E6B00-24AB-4D4B-A7B8-B6B9506D8B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{649E6B00-24AB-4D4B-A7B8-B6B9506D8B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{649E6B00-24AB-4D4B-A7B8-B6B9506D8B45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17E0218D-5409-412C-9EE5-F7D1D7E71B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E0218D-5409-412C-9EE5-F7D1D7E71B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E0218D-5409-412C-9EE5-F7D1D7E71B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E0218D-5409-412C-9EE5-F7D1D7E71B97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4493F84F-C503-405A-A6D3-BEA75CDADC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4493F84F-C503-405A-A6D3-BEA75CDADC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4493F84F-C503-405A-A6D3-BEA75CDADC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4493F84F-C503-405A-A6D3-BEA75CDADC90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

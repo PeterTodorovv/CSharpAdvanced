@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\06.Defining classes\person\bin\Debug\netcoreapp3.1\01.Person.exe
+D:\c#Code\softuniC#\advanced\06.Defining classes\person\bin\Debug\netcoreapp3.1\01.Person.deps.json
+D:\c#Code\softuniC#\advanced\06.Defining classes\person\bin\Debug\netcoreapp3.1\01.Person.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\06.Defining classes\person\bin\Debug\netcoreapp3.1\01.Person.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\06.Defining classes\person\bin\Debug\netcoreapp3.1\01.Person.dll
+D:\c#Code\softuniC#\advanced\06.Defining classes\person\bin\Debug\netcoreapp3.1\01.Person.pdb
+D:\c#Code\softuniC#\advanced\06.Defining classes\person\obj\Debug\netcoreapp3.1\01.Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\06.Defining classes\person\obj\Debug\netcoreapp3.1\01.Person.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\06.Defining classes\person\obj\Debug\netcoreapp3.1\01.Person.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\06.Defining classes\person\obj\Debug\netcoreapp3.1\01.Person.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\06.Defining classes\person\obj\Debug\netcoreapp3.1\01.Person.dll
+D:\c#Code\softuniC#\advanced\06.Defining classes\person\obj\Debug\netcoreapp3.1\01.Person.pdb
+D:\c#Code\softuniC#\advanced\06.Defining classes\person\obj\Debug\netcoreapp3.1\01.Person.genruntimeconfig.cache
+D:\c#Code\softuniC#\advanced\06.Defining classes\person\obj\Debug\netcoreapp3.1\01.Person.csproj.AssemblyReference.cache
