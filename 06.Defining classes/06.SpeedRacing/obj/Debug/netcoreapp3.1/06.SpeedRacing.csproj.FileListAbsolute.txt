@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\06.Defining classes\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.exe
+D:\c#Code\softuniC#\advanced\06.Defining classes\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.deps.json
+D:\c#Code\softuniC#\advanced\06.Defining classes\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\06.Defining classes\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\06.Defining classes\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.dll
+D:\c#Code\softuniC#\advanced\06.Defining classes\06.SpeedRacing\bin\Debug\netcoreapp3.1\06.SpeedRacing.pdb
+D:\c#Code\softuniC#\advanced\06.Defining classes\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\06.Defining classes\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\06.Defining classes\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\06.Defining classes\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\06.Defining classes\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\06.Defining classes\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.dll
+D:\c#Code\softuniC#\advanced\06.Defining classes\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.pdb
+D:\c#Code\softuniC#\advanced\06.Defining classes\06.SpeedRacing\obj\Debug\netcoreapp3.1\06.SpeedRacing.genruntimeconfig.cache
