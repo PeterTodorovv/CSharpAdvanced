@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\06.Defining classes\09.PokemonTrainer\bin\Debug\netcoreapp3.1\09.PokemonTrainer.exe
+D:\c#Code\softuniC#\advanced\06.Defining classes\09.PokemonTrainer\bin\Debug\netcoreapp3.1\09.PokemonTrainer.deps.json
+D:\c#Code\softuniC#\advanced\06.Defining classes\09.PokemonTrainer\bin\Debug\netcoreapp3.1\09.PokemonTrainer.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\06.Defining classes\09.PokemonTrainer\bin\Debug\netcoreapp3.1\09.PokemonTrainer.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\06.Defining classes\09.PokemonTrainer\bin\Debug\netcoreapp3.1\09.PokemonTrainer.dll
+D:\c#Code\softuniC#\advanced\06.Defining classes\09.PokemonTrainer\bin\Debug\netcoreapp3.1\09.PokemonTrainer.pdb
+D:\c#Code\softuniC#\advanced\06.Defining classes\09.PokemonTrainer\obj\Debug\netcoreapp3.1\09.PokemonTrainer.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\06.Defining classes\09.PokemonTrainer\obj\Debug\netcoreapp3.1\09.PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\06.Defining classes\09.PokemonTrainer\obj\Debug\netcoreapp3.1\09.PokemonTrainer.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\06.Defining classes\09.PokemonTrainer\obj\Debug\netcoreapp3.1\09.PokemonTrainer.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\06.Defining classes\09.PokemonTrainer\obj\Debug\netcoreapp3.1\09.PokemonTrainer.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\06.Defining classes\09.PokemonTrainer\obj\Debug\netcoreapp3.1\09.PokemonTrainer.dll
+D:\c#Code\softuniC#\advanced\06.Defining classes\09.PokemonTrainer\obj\Debug\netcoreapp3.1\09.PokemonTrainer.pdb
+D:\c#Code\softuniC#\advanced\06.Defining classes\09.PokemonTrainer\obj\Debug\netcoreapp3.1\09.PokemonTrainer.genruntimeconfig.cache

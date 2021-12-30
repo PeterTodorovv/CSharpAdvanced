@@ -8,8 +8,8 @@ namespace _08.CarSalesman
     {
         public string Model { get; set; }
         public int Power { get; set; }
-        public int? Displacement { get; set; } = null;
-        public string Efficiency { get; set; } = null;
+        public int? Displacement { get; set; }
+        public string Efficiency { get; set; }
 
         public Engine()
         {
