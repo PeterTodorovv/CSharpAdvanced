@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\07.CustomDoublyLinkedList\07.CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\07.CustomDoublyLinkedList.exe
+D:\c#Code\softuniC#\advanced\07.CustomDoublyLinkedList\07.CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\07.CustomDoublyLinkedList.deps.json
+D:\c#Code\softuniC#\advanced\07.CustomDoublyLinkedList\07.CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\07.CustomDoublyLinkedList.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\07.CustomDoublyLinkedList\07.CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\07.CustomDoublyLinkedList.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\07.CustomDoublyLinkedList\07.CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\07.CustomDoublyLinkedList.dll
+D:\c#Code\softuniC#\advanced\07.CustomDoublyLinkedList\07.CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\07.CustomDoublyLinkedList.pdb
+D:\c#Code\softuniC#\advanced\07.CustomDoublyLinkedList\07.CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\07.CustomDoublyLinkedList.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\07.CustomDoublyLinkedList\07.CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\07.CustomDoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\07.CustomDoublyLinkedList\07.CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\07.CustomDoublyLinkedList.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\07.CustomDoublyLinkedList\07.CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\07.CustomDoublyLinkedList.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\07.CustomDoublyLinkedList\07.CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\07.CustomDoublyLinkedList.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\07.CustomDoublyLinkedList\07.CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\07.CustomDoublyLinkedList.dll
+D:\c#Code\softuniC#\advanced\07.CustomDoublyLinkedList\07.CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\07.CustomDoublyLinkedList.pdb
+D:\c#Code\softuniC#\advanced\07.CustomDoublyLinkedList\07.CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\07.CustomDoublyLinkedList.genruntimeconfig.cache

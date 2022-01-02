@@ -2,9 +2,18 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _07.CustomDoublyLinkedList
+namespace CustomDoublyLinkedList
 {
-    class LinkedListItem
+    class LinkedListItem<T>
     {
+        public LinkedListItem(T value)
+        {
+            this.Value = value;
+        }
+        public T Value { get; set; }
+
+
+        public LinkedListItem<T> Previus;
+        public LinkedListItem<T> Next;
     }
 }
