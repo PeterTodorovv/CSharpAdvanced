@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\08.ImplementingStackAndQueue\bin\Debug\netcoreapp3.1\08.ImplementingStackAndQueue.exe
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\08.ImplementingStackAndQueue\bin\Debug\netcoreapp3.1\08.ImplementingStackAndQueue.deps.json
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\08.ImplementingStackAndQueue\bin\Debug\netcoreapp3.1\08.ImplementingStackAndQueue.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\08.ImplementingStackAndQueue\bin\Debug\netcoreapp3.1\08.ImplementingStackAndQueue.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\08.ImplementingStackAndQueue\bin\Debug\netcoreapp3.1\08.ImplementingStackAndQueue.dll
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\08.ImplementingStackAndQueue\bin\Debug\netcoreapp3.1\08.ImplementingStackAndQueue.pdb
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\08.ImplementingStackAndQueue\obj\Debug\netcoreapp3.1\08.ImplementingStackAndQueue.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\08.ImplementingStackAndQueue\obj\Debug\netcoreapp3.1\08.ImplementingStackAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\08.ImplementingStackAndQueue\obj\Debug\netcoreapp3.1\08.ImplementingStackAndQueue.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\08.ImplementingStackAndQueue\obj\Debug\netcoreapp3.1\08.ImplementingStackAndQueue.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\08.ImplementingStackAndQueue\obj\Debug\netcoreapp3.1\08.ImplementingStackAndQueue.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\08.ImplementingStackAndQueue\obj\Debug\netcoreapp3.1\08.ImplementingStackAndQueue.dll
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\08.ImplementingStackAndQueue\obj\Debug\netcoreapp3.1\08.ImplementingStackAndQueue.pdb
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\08.ImplementingStackAndQueue\obj\Debug\netcoreapp3.1\08.ImplementingStackAndQueue.genruntimeconfig.cache
