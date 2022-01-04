@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\CustomQueue\bin\Debug\netcoreapp3.1\CustomQueue.exe
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\CustomQueue\bin\Debug\netcoreapp3.1\CustomQueue.deps.json
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\CustomQueue\bin\Debug\netcoreapp3.1\CustomQueue.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\CustomQueue\bin\Debug\netcoreapp3.1\CustomQueue.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\CustomQueue\bin\Debug\netcoreapp3.1\CustomQueue.dll
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\CustomQueue\bin\Debug\netcoreapp3.1\CustomQueue.pdb
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\CustomQueue\obj\Debug\netcoreapp3.1\CustomQueue.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\CustomQueue\obj\Debug\netcoreapp3.1\CustomQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\CustomQueue\obj\Debug\netcoreapp3.1\CustomQueue.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\CustomQueue\obj\Debug\netcoreapp3.1\CustomQueue.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\CustomQueue\obj\Debug\netcoreapp3.1\CustomQueue.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\CustomQueue\obj\Debug\netcoreapp3.1\CustomQueue.dll
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\CustomQueue\obj\Debug\netcoreapp3.1\CustomQueue.pdb
+D:\c#Code\softuniC#\advanced\08.ImplementingStackAndQueue\CustomQueue\obj\Debug\netcoreapp3.1\CustomQueue.genruntimeconfig.cache
