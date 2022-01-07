@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\09.Generics\GenericBoxPfString\bin\Debug\netcoreapp3.1\GenericBoxPfString.exe
+D:\c#Code\softuniC#\advanced\09.Generics\GenericBoxPfString\bin\Debug\netcoreapp3.1\GenericBoxPfString.deps.json
+D:\c#Code\softuniC#\advanced\09.Generics\GenericBoxPfString\bin\Debug\netcoreapp3.1\GenericBoxPfString.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\09.Generics\GenericBoxPfString\bin\Debug\netcoreapp3.1\GenericBoxPfString.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\09.Generics\GenericBoxPfString\bin\Debug\netcoreapp3.1\GenericBoxPfString.dll
+D:\c#Code\softuniC#\advanced\09.Generics\GenericBoxPfString\bin\Debug\netcoreapp3.1\GenericBoxPfString.pdb
+D:\c#Code\softuniC#\advanced\09.Generics\GenericBoxPfString\obj\Debug\netcoreapp3.1\GenericBoxPfString.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\09.Generics\GenericBoxPfString\obj\Debug\netcoreapp3.1\GenericBoxPfString.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\09.Generics\GenericBoxPfString\obj\Debug\netcoreapp3.1\GenericBoxPfString.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\09.Generics\GenericBoxPfString\obj\Debug\netcoreapp3.1\GenericBoxPfString.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\09.Generics\GenericBoxPfString\obj\Debug\netcoreapp3.1\GenericBoxPfString.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\09.Generics\GenericBoxPfString\obj\Debug\netcoreapp3.1\GenericBoxPfString.dll
+D:\c#Code\softuniC#\advanced\09.Generics\GenericBoxPfString\obj\Debug\netcoreapp3.1\GenericBoxPfString.pdb
+D:\c#Code\softuniC#\advanced\09.Generics\GenericBoxPfString\obj\Debug\netcoreapp3.1\GenericBoxPfString.genruntimeconfig.cache
