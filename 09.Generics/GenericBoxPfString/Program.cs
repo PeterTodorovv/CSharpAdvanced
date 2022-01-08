@@ -8,23 +8,35 @@ namespace GenericBoxPfString
     {
         static void Main(string[] args)
         {
-            List<Box<int>> boxes = new List<Box<int>>();
+            List<Box<double>> boxes = new List<Box<double>>();
             int n = int.Parse(Console.ReadLine());
 
             for(int i = 0; i < n; i++)
             {
-                Box<int> box = new Box<int>(int.Parse(Console.ReadLine()));
+                Box<double> box = new Box<double>(double.Parse(Console.ReadLine()));
                 boxes.Add(box);
             }
 
-            int[] indexes = Console.ReadLine().Split().Select(int.Parse).ToArray();
-            SwapBoxes(indexes[0], indexes[1], boxes);
+            double elementToConpare = double.Parse(Console.ReadLine());
 
-            foreach(var box in boxes)
+            Counter(boxes, elementToConpare);
+
+        }
+
+        public static void Counter(List<Box<double>> boxes, double elementToCompare)
+        {
+            int count = 0;
+            foreach (var element in boxes)
             {
-                Console.WriteLine(box.ToString());
+                
+                if(element.value > elementToCompare)
+                {
+                    count++;
+                }
+
             }
 
+            Console.WriteLine(count);
         }
 
         static void SwapBoxes<T>(int index1, int index2, List<Box<T>> boxes)

@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericScale", "GenericScal
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericBoxPfString", "GenericBoxPfString\GenericBoxPfString.csproj", "{3259FDE8-2B0E-4F2B-A3F9-217253575C9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuple", "Tuple\Tuple.csproj", "{5C39BFAE-7B57-41A7-9A4E-0DBA8EB12A43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3259FDE8-2B0E-4F2B-A3F9-217253575C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3259FDE8-2B0E-4F2B-A3F9-217253575C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3259FDE8-2B0E-4F2B-A3F9-217253575C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C39BFAE-7B57-41A7-9A4E-0DBA8EB12A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C39BFAE-7B57-41A7-9A4E-0DBA8EB12A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C39BFAE-7B57-41A7-9A4E-0DBA8EB12A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C39BFAE-7B57-41A7-9A4E-0DBA8EB12A43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

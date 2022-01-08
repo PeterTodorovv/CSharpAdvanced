@@ -5,7 +5,6 @@ using System.Text;
 namespace GenericBoxPfString
 {   
     class Box<T>
-        where T: IComparable
     {
         public T value;
 
