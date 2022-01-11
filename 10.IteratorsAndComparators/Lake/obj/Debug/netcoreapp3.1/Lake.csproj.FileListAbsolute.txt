@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\Lake\bin\Debug\netcoreapp3.1\Lake.exe
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\Lake\bin\Debug\netcoreapp3.1\Lake.deps.json
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\Lake\bin\Debug\netcoreapp3.1\Lake.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\Lake\bin\Debug\netcoreapp3.1\Lake.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\Lake\bin\Debug\netcoreapp3.1\Lake.dll
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\Lake\bin\Debug\netcoreapp3.1\Lake.pdb
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\Lake\obj\Debug\netcoreapp3.1\Lake.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\Lake\obj\Debug\netcoreapp3.1\Lake.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\Lake\obj\Debug\netcoreapp3.1\Lake.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\Lake\obj\Debug\netcoreapp3.1\Lake.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\Lake\obj\Debug\netcoreapp3.1\Lake.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\Lake\obj\Debug\netcoreapp3.1\Lake.dll
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\Lake\obj\Debug\netcoreapp3.1\Lake.pdb
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\Lake\obj\Debug\netcoreapp3.1\Lake.genruntimeconfig.cache

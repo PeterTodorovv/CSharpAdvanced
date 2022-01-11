@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\7.CustomLinkedList\bin\Debug\netcoreapp3.1\7.CustomLinkedList.exe
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\7.CustomLinkedList\bin\Debug\netcoreapp3.1\7.CustomLinkedList.deps.json
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\7.CustomLinkedList\bin\Debug\netcoreapp3.1\7.CustomLinkedList.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\7.CustomLinkedList\bin\Debug\netcoreapp3.1\7.CustomLinkedList.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\7.CustomLinkedList\bin\Debug\netcoreapp3.1\7.CustomLinkedList.dll
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\7.CustomLinkedList\bin\Debug\netcoreapp3.1\7.CustomLinkedList.pdb
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\7.CustomLinkedList\obj\Debug\netcoreapp3.1\7.CustomLinkedList.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\7.CustomLinkedList\obj\Debug\netcoreapp3.1\7.CustomLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\7.CustomLinkedList\obj\Debug\netcoreapp3.1\7.CustomLinkedList.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\7.CustomLinkedList\obj\Debug\netcoreapp3.1\7.CustomLinkedList.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\7.CustomLinkedList\obj\Debug\netcoreapp3.1\7.CustomLinkedList.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\7.CustomLinkedList\obj\Debug\netcoreapp3.1\7.CustomLinkedList.dll
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\7.CustomLinkedList\obj\Debug\netcoreapp3.1\7.CustomLinkedList.pdb
+D:\c#Code\softuniC#\advanced\10.IteratorsAndComparators\7.CustomLinkedList\obj\Debug\netcoreapp3.1\7.CustomLinkedList.genruntimeconfig.cache
