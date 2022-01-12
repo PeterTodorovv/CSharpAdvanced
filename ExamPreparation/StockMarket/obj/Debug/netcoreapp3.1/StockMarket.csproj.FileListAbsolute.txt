@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\ExamPreparation\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.exe
+D:\c#Code\softuniC#\advanced\ExamPreparation\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.deps.json
+D:\c#Code\softuniC#\advanced\ExamPreparation\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\ExamPreparation\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\ExamPreparation\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.dll
+D:\c#Code\softuniC#\advanced\ExamPreparation\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.pdb
+D:\c#Code\softuniC#\advanced\ExamPreparation\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\ExamPreparation\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\ExamPreparation\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\ExamPreparation\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\ExamPreparation\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\ExamPreparation\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.dll
+D:\c#Code\softuniC#\advanced\ExamPreparation\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.pdb
+D:\c#Code\softuniC#\advanced\ExamPreparation\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.genruntimeconfig.cache
