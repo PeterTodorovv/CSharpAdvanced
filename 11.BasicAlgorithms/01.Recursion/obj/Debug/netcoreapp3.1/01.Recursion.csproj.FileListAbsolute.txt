@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\01.Recursion\bin\Debug\netcoreapp3.1\01.Recursion.exe
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\01.Recursion\bin\Debug\netcoreapp3.1\01.Recursion.deps.json
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\01.Recursion\bin\Debug\netcoreapp3.1\01.Recursion.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\01.Recursion\bin\Debug\netcoreapp3.1\01.Recursion.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\01.Recursion\bin\Debug\netcoreapp3.1\01.Recursion.dll
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\01.Recursion\bin\Debug\netcoreapp3.1\01.Recursion.pdb
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\01.Recursion\obj\Debug\netcoreapp3.1\01.Recursion.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\01.Recursion\obj\Debug\netcoreapp3.1\01.Recursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\01.Recursion\obj\Debug\netcoreapp3.1\01.Recursion.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\01.Recursion\obj\Debug\netcoreapp3.1\01.Recursion.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\01.Recursion\obj\Debug\netcoreapp3.1\01.Recursion.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\01.Recursion\obj\Debug\netcoreapp3.1\01.Recursion.dll
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\01.Recursion\obj\Debug\netcoreapp3.1\01.Recursion.pdb
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\01.Recursion\obj\Debug\netcoreapp3.1\01.Recursion.genruntimeconfig.cache
