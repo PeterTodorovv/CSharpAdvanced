@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\ExamPreparation\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.exe
+D:\c#Code\softuniC#\advanced\ExamPreparation\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.deps.json
+D:\c#Code\softuniC#\advanced\ExamPreparation\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\ExamPreparation\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\ExamPreparation\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.dll
+D:\c#Code\softuniC#\advanced\ExamPreparation\StreetRacing\bin\Debug\netcoreapp3.1\StreetRacing.pdb
+D:\c#Code\softuniC#\advanced\ExamPreparation\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\ExamPreparation\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\ExamPreparation\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\ExamPreparation\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\ExamPreparation\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\ExamPreparation\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.dll
+D:\c#Code\softuniC#\advanced\ExamPreparation\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.pdb
+D:\c#Code\softuniC#\advanced\ExamPreparation\StreetRacing\obj\Debug\netcoreapp3.1\StreetRacing.genruntimeconfig.cache

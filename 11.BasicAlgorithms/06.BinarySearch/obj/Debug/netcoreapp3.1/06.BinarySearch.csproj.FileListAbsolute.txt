@@ -1,0 +1,13 @@
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\06.BinarySearch\bin\Debug\netcoreapp3.1\06.BinarySearch.exe
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\06.BinarySearch\bin\Debug\netcoreapp3.1\06.BinarySearch.deps.json
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\06.BinarySearch\bin\Debug\netcoreapp3.1\06.BinarySearch.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\06.BinarySearch\bin\Debug\netcoreapp3.1\06.BinarySearch.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\06.BinarySearch\bin\Debug\netcoreapp3.1\06.BinarySearch.dll
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\06.BinarySearch\bin\Debug\netcoreapp3.1\06.BinarySearch.pdb
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\06.BinarySearch\obj\Debug\netcoreapp3.1\06.BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\06.BinarySearch\obj\Debug\netcoreapp3.1\06.BinarySearch.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\06.BinarySearch\obj\Debug\netcoreapp3.1\06.BinarySearch.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\06.BinarySearch\obj\Debug\netcoreapp3.1\06.BinarySearch.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\06.BinarySearch\obj\Debug\netcoreapp3.1\06.BinarySearch.dll
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\06.BinarySearch\obj\Debug\netcoreapp3.1\06.BinarySearch.pdb
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\06.BinarySearch\obj\Debug\netcoreapp3.1\06.BinarySearch.genruntimeconfig.cache

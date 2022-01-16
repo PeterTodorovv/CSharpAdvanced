@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "14iZna3yIB5Tm516KPLqUYC9n/u6rDQeYwau72c7t1JXxQKWYaTHfTNUDGJ8DLnXvhpZhN+MS81nAHVUwPPz0Q==",
+  "dgSpecHash": "+0EPLoUEq3TOlVgERaJcHJuziqss4T7Rp7caDSFbVNE6AmwE0u08iGtZLbF3RQ2LZzdzhCeVWG2TCAv6fXum0Q==",
   "success": true,
   "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\01.Masterchef\\01.Masterchef.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

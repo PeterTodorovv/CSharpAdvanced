@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\05.MergeSort\bin\Debug\netcoreapp3.1\05.MergeSort.exe
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\05.MergeSort\bin\Debug\netcoreapp3.1\05.MergeSort.deps.json
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\05.MergeSort\bin\Debug\netcoreapp3.1\05.MergeSort.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\05.MergeSort\bin\Debug\netcoreapp3.1\05.MergeSort.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\05.MergeSort\bin\Debug\netcoreapp3.1\05.MergeSort.dll
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\05.MergeSort\bin\Debug\netcoreapp3.1\05.MergeSort.pdb
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\05.MergeSort\obj\Debug\netcoreapp3.1\05.MergeSort.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\05.MergeSort\obj\Debug\netcoreapp3.1\05.MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\05.MergeSort\obj\Debug\netcoreapp3.1\05.MergeSort.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\05.MergeSort\obj\Debug\netcoreapp3.1\05.MergeSort.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\05.MergeSort\obj\Debug\netcoreapp3.1\05.MergeSort.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\05.MergeSort\obj\Debug\netcoreapp3.1\05.MergeSort.dll
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\05.MergeSort\obj\Debug\netcoreapp3.1\05.MergeSort.pdb
+D:\c#Code\softuniC#\advanced\11.BasicAlgorithms\05.MergeSort\obj\Debug\netcoreapp3.1\05.MergeSort.genruntimeconfig.cache

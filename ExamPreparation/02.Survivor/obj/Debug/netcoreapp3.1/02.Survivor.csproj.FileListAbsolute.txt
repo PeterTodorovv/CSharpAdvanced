@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\advanced\ExamPreparation\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\advanced\ExamPreparation\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\advanced\ExamPreparation\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\advanced\ExamPreparation\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.AssemblyInfo.cs
+D:\c#Code\softuniC#\advanced\ExamPreparation\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\advanced\ExamPreparation\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.exe
+D:\c#Code\softuniC#\advanced\ExamPreparation\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.deps.json
+D:\c#Code\softuniC#\advanced\ExamPreparation\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.runtimeconfig.json
+D:\c#Code\softuniC#\advanced\ExamPreparation\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.runtimeconfig.dev.json
+D:\c#Code\softuniC#\advanced\ExamPreparation\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.dll
+D:\c#Code\softuniC#\advanced\ExamPreparation\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.pdb
+D:\c#Code\softuniC#\advanced\ExamPreparation\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.dll
+D:\c#Code\softuniC#\advanced\ExamPreparation\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.pdb
+D:\c#Code\softuniC#\advanced\ExamPreparation\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.genruntimeconfig.cache

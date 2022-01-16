@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NpQyWH7LO8lDN/6QL87i95y4ehCvxvz9ld0/EjVo7CaxAS6Ibw+Lw5Y0JS39nKWaJ6h25XkrTg56ya0Fz9CiZw==",
+  "dgSpecHash": "cxRGmcO3WqXFihmwKQ23enImyReHl7SV7ppULYwn/Tzd3FNm3MUHMKBnqNUNFbqF6tpoDD8x7JKtsirMkZLXPg==",
   "success": true,
   "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\01.FoodFinder\\01.FoodFinder.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }
