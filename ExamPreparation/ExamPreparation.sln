@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Survivor", "02.Survivor\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StreetRacing", "StreetRacing\StreetRacing.csproj", "{F4DE6759-898C-47B0-A5C8-2E5E6227E5CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Survivorr", "02.Survivorr\02.Survivorr.csproj", "{626FA10B-246B-40E6-84A8-537DB682B3AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkiRental", "C:\Users\peter\Downloads\03. Ski Rental_Skeleton\SkiRental\SkiRental.csproj", "{B1F39528-E0A7-4834-AEF4-445FC5098DAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{F4DE6759-898C-47B0-A5C8-2E5E6227E5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4DE6759-898C-47B0-A5C8-2E5E6227E5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4DE6759-898C-47B0-A5C8-2E5E6227E5CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{626FA10B-246B-40E6-84A8-537DB682B3AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626FA10B-246B-40E6-84A8-537DB682B3AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626FA10B-246B-40E6-84A8-537DB682B3AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626FA10B-246B-40E6-84A8-537DB682B3AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1F39528-E0A7-4834-AEF4-445FC5098DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F39528-E0A7-4834-AEF4-445FC5098DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F39528-E0A7-4834-AEF4-445FC5098DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F39528-E0A7-4834-AEF4-445FC5098DAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
