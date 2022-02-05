@@ -13,9 +13,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Survivor", "02.Survivor\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StreetRacing", "StreetRacing\StreetRacing.csproj", "{F4DE6759-898C-47B0-A5C8-2E5E6227E5CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Survivorr", "02.Survivorr\02.Survivorr.csproj", "{626FA10B-246B-40E6-84A8-537DB682B3AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Survivorr", "02.Survivorr\02.Survivorr.csproj", "{626FA10B-246B-40E6-84A8-537DB682B3AF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkiRental", "C:\Users\peter\Downloads\03. Ski Rental_Skeleton\SkiRental\SkiRental.csproj", "{B1F39528-E0A7-4834-AEF4-445FC5098DAF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.WarmWinter", "01.WarmWinter\01.WarmWinter.csproj", "{C8C118C9-B25B-4627-AE18-9D2B483E4CFF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.SuperMario", "02.SuperMario\02.SuperMario.csproj", "{5794106D-FEC0-4440-ABBE-B7B9E4BE23BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.SuperMarioV2", "02.SuperMarioV2\02.SuperMarioV2.csproj", "{13976ECB-738B-4AE8-8D6A-314378E7EFA2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CocktailParty", "C:\Users\peter\Downloads\03. Cocktail Party_Skeleton\Skeleton\CocktailParty.csproj", "{82297E59-328C-4CB3-AD51-E45AB87BC787}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +59,22 @@ Global
 		{B1F39528-E0A7-4834-AEF4-445FC5098DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1F39528-E0A7-4834-AEF4-445FC5098DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1F39528-E0A7-4834-AEF4-445FC5098DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8C118C9-B25B-4627-AE18-9D2B483E4CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C118C9-B25B-4627-AE18-9D2B483E4CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C118C9-B25B-4627-AE18-9D2B483E4CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C118C9-B25B-4627-AE18-9D2B483E4CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5794106D-FEC0-4440-ABBE-B7B9E4BE23BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5794106D-FEC0-4440-ABBE-B7B9E4BE23BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5794106D-FEC0-4440-ABBE-B7B9E4BE23BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5794106D-FEC0-4440-ABBE-B7B9E4BE23BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13976ECB-738B-4AE8-8D6A-314378E7EFA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13976ECB-738B-4AE8-8D6A-314378E7EFA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13976ECB-738B-4AE8-8D6A-314378E7EFA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13976ECB-738B-4AE8-8D6A-314378E7EFA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82297E59-328C-4CB3-AD51-E45AB87BC787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82297E59-328C-4CB3-AD51-E45AB87BC787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82297E59-328C-4CB3-AD51-E45AB87BC787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82297E59-328C-4CB3-AD51-E45AB87BC787}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

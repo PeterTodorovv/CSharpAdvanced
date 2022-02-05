@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\02.PawnWars\\02.PawnWars.csproj": {}
+    "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\02.PawnWars\\02.PawnWars.csproj": {}
   },
   "projects": {
-    "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\02.PawnWars\\02.PawnWars.csproj": {
+    "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\02.PawnWars\\02.PawnWars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\02.PawnWars\\02.PawnWars.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\02.PawnWars\\02.PawnWars.csproj",
         "projectName": "02.PawnWars",
-        "projectPath": "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\02.PawnWars\\02.PawnWars.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\02.PawnWars\\02.PawnWars.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\02.PawnWars\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\02.PawnWars\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

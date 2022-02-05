@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\01.FoodFinder\\01.FoodFinder.csproj": {}
+    "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\01.FoodFinder\\01.FoodFinder.csproj": {}
   },
   "projects": {
-    "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\01.FoodFinder\\01.FoodFinder.csproj": {
+    "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\01.FoodFinder\\01.FoodFinder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\01.FoodFinder\\01.FoodFinder.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\01.FoodFinder\\01.FoodFinder.csproj",
         "projectName": "01.FoodFinder",
-        "projectPath": "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\01.FoodFinder\\01.FoodFinder.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\01.FoodFinder\\01.FoodFinder.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\01.FoodFinder\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\01.FoodFinder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

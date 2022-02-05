@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\02.Survivorr\\02.Survivorr.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\02.Survivorr\\02.Survivorr.csproj",
       "projectName": "02.Survivorr",
-      "projectPath": "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\02.Survivorr\\02.Survivorr.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\02.Survivorr\\02.Survivorr.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\02.Survivorr\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\02.Survivorr\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

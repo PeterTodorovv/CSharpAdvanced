@@ -1,0 +1,13 @@
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.SuperMario\bin\Debug\netcoreapp2.1\02.SuperMario.deps.json
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.SuperMario\bin\Debug\netcoreapp2.1\02.SuperMario.runtimeconfig.json
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.SuperMario\bin\Debug\netcoreapp2.1\02.SuperMario.runtimeconfig.dev.json
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.SuperMario\bin\Debug\netcoreapp2.1\02.SuperMario.dll
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.SuperMario\bin\Debug\netcoreapp2.1\02.SuperMario.pdb
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.SuperMario\obj\Debug\netcoreapp2.1\02.SuperMario.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.SuperMario\obj\Debug\netcoreapp2.1\02.SuperMario.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.SuperMario\obj\Debug\netcoreapp2.1\02.SuperMario.AssemblyInfo.cs
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.SuperMario\obj\Debug\netcoreapp2.1\02.SuperMario.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.SuperMario\obj\Debug\netcoreapp2.1\02.SuperMario.dll
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.SuperMario\obj\Debug\netcoreapp2.1\02.SuperMario.pdb
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.SuperMario\obj\Debug\netcoreapp2.1\02.SuperMario.genruntimeconfig.cache
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.SuperMario\obj\Debug\netcoreapp2.1\02.SuperMario.csproj.AssemblyReference.cache

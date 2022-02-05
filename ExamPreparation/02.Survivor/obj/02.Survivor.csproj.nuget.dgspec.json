@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\02.Survivor\\02.Survivor.csproj": {}
+    "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\02.Survivor\\02.Survivor.csproj": {}
   },
   "projects": {
-    "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\02.Survivor\\02.Survivor.csproj": {
+    "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\02.Survivor\\02.Survivor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\02.Survivor\\02.Survivor.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\02.Survivor\\02.Survivor.csproj",
         "projectName": "02.Survivor",
-        "projectPath": "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\02.Survivor\\02.Survivor.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\02.Survivor\\02.Survivor.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\02.Survivor\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\02.Survivor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6qDvWt98Z6L52+ZLmlFewg8X7SJ8kgCOahuj1tIr1JxHJi1K+4vSMn3rlTD0/Xq9RPGmlGpA2N5HFoZgqb3MDA==",
+  "dgSpecHash": "8QesuY8roO1BRrz0Vi1oslPfm6VIZL5Ls7Mmt26Xn/WxYTMWPTlbEJzOmUAOLSZXqUME5d/ZYhdroXq9ix/+SA==",
   "success": true,
-  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\02.Survivorr\\02.Survivorr.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\02.Survivorr\\02.Survivorr.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

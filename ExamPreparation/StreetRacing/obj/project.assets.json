@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\StreetRacing\\StreetRacing.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\StreetRacing\\StreetRacing.csproj",
       "projectName": "StreetRacing",
-      "projectPath": "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\StreetRacing\\StreetRacing.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\StreetRacing\\StreetRacing.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "D:\\c#Code\\softuniC#\\advanced\\ExamPreparation\\StreetRacing\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\StreetRacing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
