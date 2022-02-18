@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9wzoey2QiImKtUhJ21x0bsJJUZIP4+mqgyVIsbe2AkIpswkxs5sgH2B4fTAR/2j2dPQ59wRfakiarmuIvI5gNQ==",
+  "dgSpecHash": "2O+CaFIALzD6JyAgh3n5WKTAiYOfM3Kjg1w1ShkfkrhqIgpG3A9MRfE2XtZ8t0p42pmWCUlkRUgDtQ5oMUnzOg==",
   "success": true,
-  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\03.SetsAndDictionariesAdvanced\\01.UniqueUsernames\\01.UniqueUsernames.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\03.SetsAndDictionariesAdvanced\\01.UniqueUsernames\\01.UniqueUsernames.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

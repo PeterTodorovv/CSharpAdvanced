@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G3zSmbicCeNS8WoFanPkKyG+WicSQaoahZzrRvck0rwBPMzn28ShUmC5EOs1USojbcSplVt6TApjQDkrB3DqjQ==",
+  "dgSpecHash": "5q9nnSSRDH90NPx3LDv2eXoEIcx9lOIHcLiAhOea9sL5G8Z2EwIgXlfzyxASFSxJd4gv1zlFqnCaY15/Tg9V8Q==",
   "success": true,
-  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\01.SortEvenNumbers\\01.SortEvenNumbers.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\05.FunctionalProgramming\\01.SortEvenNumbers\\01.SortEvenNumbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

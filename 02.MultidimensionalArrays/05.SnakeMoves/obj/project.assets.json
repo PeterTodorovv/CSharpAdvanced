@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\05.SnakeMoves\\05.SnakeMoves.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\03.Advanced\\02.MultidimensionalArrays\\05.SnakeMoves\\05.SnakeMoves.csproj",
       "projectName": "05.SnakeMoves",
-      "projectPath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\05.SnakeMoves\\05.SnakeMoves.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\03.Advanced\\02.MultidimensionalArrays\\05.SnakeMoves\\05.SnakeMoves.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\05.SnakeMoves\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\03.Advanced\\02.MultidimensionalArrays\\05.SnakeMoves\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

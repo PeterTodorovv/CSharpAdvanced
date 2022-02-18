@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ue0DRmoSH5dimPJ0AYW34Fuh8vplhAC/79L7PnsYeE82DBjmPR2iS9qXlH1/hfgwHz+00fU+1KhW+5ktRv7A4A==",
+  "dgSpecHash": "cN5m2oqxrqiUag9zaPO57R0ClbuaRO083P3xPNjYtiu51HkoyoK/QtOTuD8U5hSwet5oQr/9gRYAbdvUG6p0Yg==",
   "success": true,
-  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\03.SetsAndDictionariesAdvanced\\05.CountSymbols\\05.CountSymbols.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\03.SetsAndDictionariesAdvanced\\05.CountSymbols\\05.CountSymbols.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

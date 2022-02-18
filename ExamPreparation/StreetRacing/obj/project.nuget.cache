@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jcWa9BzodBs1oSbqYjpP4zJ8MbFPDdbZULm+7MQJnDyaqUjxctGcBQUFnwAfquA9F6xgEUoRrRS1rdwvYwhmIw==",
+  "dgSpecHash": "r6/VeKQ7Jn9DBca2P70ctCVEAunSvJ/kY2Hk0nsDI/Go3y4JcaxP0n0x4cOFAAKXKMoMZ4ey2M58wQUlE8IYEg==",
   "success": true,
   "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\StreetRacing\\StreetRacing.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

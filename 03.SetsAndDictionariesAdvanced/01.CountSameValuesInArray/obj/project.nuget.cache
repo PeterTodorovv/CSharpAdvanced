@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "COqj+YpSSQHqrAoQS5GmIO2mAvjeqlAqFzvPicldZD0S2OxV51YSb/7+p75v9rl2th78pHL0z+7qKFbEffu6cg==",
+  "dgSpecHash": "tanlo2KtgWM1oZzjo/gAq5y9mx8tjfqDxg3PpfN2BDmu8JjGJ2WuA6MNHcwn8Pxv9Z1MdndJFOzGY2kuxOeqbQ==",
   "success": true,
-  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\03.SetsAndDictionariesAdvanced\\01.CountSameValuesInArray\\01.CountSameValuesInArray.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\03.SetsAndDictionariesAdvanced\\01.CountSameValuesInArray\\01.CountSameValuesInArray.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

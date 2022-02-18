@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "adt/g9V4kHk7dZIRAE1xjDW7trpsrjwQL7g8bTrjTJb4Oxb9xsIUcWM0/rSoEIClIVcbpSE4tOXaSQclj986VA==",
+  "dgSpecHash": "ecCqi3OGBhUi6f99Upa6vRx+i788yXNyPett83rTgDNB3doBWN3ZCizR3goC8IEF4bNRfKVA3Gcj22e5/tPajw==",
   "success": true,
-  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\01.DiagonalDifference\\01.DiagonalDifference.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\02.MultidimensionalArrays\\01.DiagonalDifference\\01.DiagonalDifference.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

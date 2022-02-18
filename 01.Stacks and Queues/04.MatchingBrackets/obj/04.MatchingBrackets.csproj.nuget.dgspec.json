@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\04.MatchingBrackets\\04.MatchingBrackets.csproj": {}
+    "D:\\c#Code\\softuniC#\\03.Advanced\\01.Stacks and Queues\\04.MatchingBrackets\\04.MatchingBrackets.csproj": {}
   },
   "projects": {
-    "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\04.MatchingBrackets\\04.MatchingBrackets.csproj": {
+    "D:\\c#Code\\softuniC#\\03.Advanced\\01.Stacks and Queues\\04.MatchingBrackets\\04.MatchingBrackets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\04.MatchingBrackets\\04.MatchingBrackets.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\03.Advanced\\01.Stacks and Queues\\04.MatchingBrackets\\04.MatchingBrackets.csproj",
         "projectName": "04.MatchingBrackets",
-        "projectPath": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\04.MatchingBrackets\\04.MatchingBrackets.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\03.Advanced\\01.Stacks and Queues\\04.MatchingBrackets\\04.MatchingBrackets.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\04.MatchingBrackets\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\03.Advanced\\01.Stacks and Queues\\04.MatchingBrackets\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

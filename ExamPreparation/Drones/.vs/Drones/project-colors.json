@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "081e61b0-8825-41f8-a20a-a6326b71c240": {
+      "ProjectGuid": "081e61b0-8825-41f8-a20a-a6326b71c240",
+      "DisplayName": "Drones",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

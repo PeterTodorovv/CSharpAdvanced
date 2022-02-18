@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B4bkTbdtDW+houYf1o7B/MHyxeK7Q5yiYdeFm3TAEeBX5Fz4/D6XAMeT2OOOQs75OeDJ1igJG6lCzNqYSt5ZIw==",
+  "dgSpecHash": "zW4uEXS3nT6ujUFM933YGfHcWyblB1QLNiuIraVNQGt7cyfwEvJxV6A4kewlvW6aL8ql/jgdrh4h3oqeJzmLKw==",
   "success": true,
-  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\07.PascalTriangle\\07.PascalTriangle.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\02.MultidimensionalArrays\\07.PascalTriangle\\07.PascalTriangle.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

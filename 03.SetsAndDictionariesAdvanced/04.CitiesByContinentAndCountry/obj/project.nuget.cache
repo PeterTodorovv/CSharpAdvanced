@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hm9lvMBY4OOXflcTofYKSNkFeqo4dy/aw9Vtp7QfKhJhk9gIrtdn79ldzen/T11ClVvZL5qHvOKQTIsp3kl48g==",
+  "dgSpecHash": "pfSKFz0zDT2oJfWQPQim2PEl6S7B4hk3EUdcGjMgAYK0Iu+4j2mYKUGxpdZcdEr4I4EZIC8idV5YnboggCUX5A==",
   "success": true,
-  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\03.SetsAndDictionariesAdvanced\\04.CitiesByContinentAndCountry\\04.CitiesByContinentAndCountry.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\03.SetsAndDictionariesAdvanced\\04.CitiesByContinentAndCountry\\04.CitiesByContinentAndCountry.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "40ee6073-7420-4519-8d33-9de1561cff1f": {
+      "ProjectGuid": "40ee6073-7420-4519-8d33-9de1561cff1f",
+      "DisplayName": "01.BasicStackOperations",
+      "ColorIndex": 0
+    },
+    "2afded0c-cb9e-49b0-810b-9694cb3a23fb": {
+      "ProjectGuid": "2afded0c-cb9e-49b0-810b-9694cb3a23fb",
+      "DisplayName": "02.BasicQueueOperations",
+      "ColorIndex": 1
+    },
+    "6745863c-5e38-4fd7-a689-e4d6bdf521a9": {
+      "ProjectGuid": "6745863c-5e38-4fd7-a689-e4d6bdf521a9",
+      "DisplayName": "03.MaximumAndMinimumElement",
+      "ColorIndex": 2
+    },
+    "ee750062-f3ae-4b4d-b38f-c4ef1037203c": {
+      "ProjectGuid": "ee750062-f3ae-4b4d-b38f-c4ef1037203c",
+      "DisplayName": "04.FastFood",
+      "ColorIndex": 3
+    },
+    "c0c37117-29b0-4e12-a0e6-cda59dbc5f4a": {
+      "ProjectGuid": "c0c37117-29b0-4e12-a0e6-cda59dbc5f4a",
+      "DisplayName": "05.FashionBoutique",
+      "ColorIndex": 4
+    },
+    "580d8b1a-62c9-4acd-871c-f56c249bff75": {
+      "ProjectGuid": "580d8b1a-62c9-4acd-871c-f56c249bff75",
+      "DisplayName": "06.SongsQueue",
+      "ColorIndex": 5
+    },
+    "55ab3f3a-ecd0-43b8-aea5-5488a4d03f6c": {
+      "ProjectGuid": "55ab3f3a-ecd0-43b8-aea5-5488a4d03f6c",
+      "DisplayName": "07.TruckTour",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

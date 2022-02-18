@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WP8pE6L5y73DLbLJ0HVorAEdggusXu3R1Z4UsC3uuVZdUikBxcLquy9UNA1LQuGtPYll6AdGRP4V2Y8nc9eDUA==",
+  "dgSpecHash": "tYFhbbNcZjvK4gP45iYztOTmLGxg7ZbKr5KXVrdFZzcaWdwCfEKISOmHqVixOeXSwUYzeaelSxUj+QmGEw/G2Q==",
   "success": true,
-  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\03.MaximalSum\\03.MaximalSum.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\02.MultidimensionalArrays\\03.MaximalSum\\03.MaximalSum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

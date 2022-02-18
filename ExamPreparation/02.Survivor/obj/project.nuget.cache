@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oG6C5kxelwyO6XC+wlrRqUOrd4mXszNMp2wwm1YasLl3q0aXWoI1Rd3jNBUAALrrOyAHTgBltFX/l+QOImc17w==",
+  "dgSpecHash": "Sr4YB7qLhRuVciCjXm7JbwC0nDfbdZm1momQZ32e1DMvsg+KXFAIGGqqGhVTvr/TAEF3Vdk5aLELuHnX11ZkYQ==",
   "success": true,
   "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\02.Survivor\\02.Survivor.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

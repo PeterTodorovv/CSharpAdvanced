@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8366d9cf-a704-4c13-a7b5-25fd04cba6a5": {
+      "ProjectGuid": "8366d9cf-a704-4c13-a7b5-25fd04cba6a5",
+      "DisplayName": "01.UniqueUsernames",
+      "ColorIndex": 0
+    },
+    "f2455bc4-6e6e-4e51-a214-931f22ceddd2": {
+      "ProjectGuid": "f2455bc4-6e6e-4e51-a214-931f22ceddd2",
+      "DisplayName": "02.SetsOfElements",
+      "ColorIndex": 1
+    },
+    "31fec4d3-4f9c-4f48-a4bc-dd6ce09c540c": {
+      "ProjectGuid": "31fec4d3-4f9c-4f48-a4bc-dd6ce09c540c",
+      "DisplayName": "03.ProductShop",
+      "ColorIndex": 2
+    },
+    "932dec94-83e2-42d1-8e03-8f6c6e9f5fe5": {
+      "ProjectGuid": "932dec94-83e2-42d1-8e03-8f6c6e9f5fe5",
+      "DisplayName": "03.PeriodicTable",
+      "ColorIndex": 3
+    },
+    "83cb7249-9969-49e5-ba39-f3a93d31cb19": {
+      "ProjectGuid": "83cb7249-9969-49e5-ba39-f3a93d31cb19",
+      "DisplayName": "04.EvenTimes",
+      "ColorIndex": 4
+    },
+    "3eef2fa4-2918-4dfa-af3e-1c9e5bd0978f": {
+      "ProjectGuid": "3eef2fa4-2918-4dfa-af3e-1c9e5bd0978f",
+      "DisplayName": "05.CountSymbols",
+      "ColorIndex": 5
+    },
+    "4ff945e3-bce1-4e61-b009-4065724ddae8": {
+      "ProjectGuid": "4ff945e3-bce1-4e61-b009-4065724ddae8",
+      "DisplayName": "06.Wardrobe",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

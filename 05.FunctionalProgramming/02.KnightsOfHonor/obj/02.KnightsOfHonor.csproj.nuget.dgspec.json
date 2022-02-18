@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\02.KnightsOfHonor\\02.KnightsOfHonor.csproj": {}
+    "D:\\c#Code\\softuniC#\\03.Advanced\\05.FunctionalProgramming\\02.KnightsOfHonor\\02.KnightsOfHonor.csproj": {}
   },
   "projects": {
-    "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\02.KnightsOfHonor\\02.KnightsOfHonor.csproj": {
+    "D:\\c#Code\\softuniC#\\03.Advanced\\05.FunctionalProgramming\\02.KnightsOfHonor\\02.KnightsOfHonor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\02.KnightsOfHonor\\02.KnightsOfHonor.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\03.Advanced\\05.FunctionalProgramming\\02.KnightsOfHonor\\02.KnightsOfHonor.csproj",
         "projectName": "02.KnightsOfHonor",
-        "projectPath": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\02.KnightsOfHonor\\02.KnightsOfHonor.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\03.Advanced\\05.FunctionalProgramming\\02.KnightsOfHonor\\02.KnightsOfHonor.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\02.KnightsOfHonor\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\03.Advanced\\05.FunctionalProgramming\\02.KnightsOfHonor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#Code\\softuniC#\\advanced\\06.Defining classes\\06.SpeedRacing\\06.SpeedRacing.csproj": {}
+    "D:\\c#Code\\softuniC#\\03.Advanced\\06.Defining classes\\06.SpeedRacing\\06.SpeedRacing.csproj": {}
   },
   "projects": {
-    "D:\\c#Code\\softuniC#\\advanced\\06.Defining classes\\06.SpeedRacing\\06.SpeedRacing.csproj": {
+    "D:\\c#Code\\softuniC#\\03.Advanced\\06.Defining classes\\06.SpeedRacing\\06.SpeedRacing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\06.Defining classes\\06.SpeedRacing\\06.SpeedRacing.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\03.Advanced\\06.Defining classes\\06.SpeedRacing\\06.SpeedRacing.csproj",
         "projectName": "06.SpeedRacing",
-        "projectPath": "D:\\c#Code\\softuniC#\\advanced\\06.Defining classes\\06.SpeedRacing\\06.SpeedRacing.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\03.Advanced\\06.Defining classes\\06.SpeedRacing\\06.SpeedRacing.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "D:\\c#Code\\softuniC#\\advanced\\06.Defining classes\\06.SpeedRacing\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\03.Advanced\\06.Defining classes\\06.SpeedRacing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gmn9BLoVdJTwoUe1yfuV7vTFz2gPikjRHPGCwy0c04Us6AtfKfgqSMfSmbU/SwXVJUkcK3CozOIY1MLIg0/05w==",
+  "dgSpecHash": "DsaZRBqRDVHr1LjdTzg7CEKz1o3Z3tqXFCR8caqQFuqsvNyiOAwE2xPJrzuzl1GzGxMRnNhiTCK1htMg5Ta6JQ==",
   "success": true,
-  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\06.Defining classes\\person\\01.Person.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\06.Defining classes\\person\\01.Person.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

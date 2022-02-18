@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tQVz0bJva1Xquy7Tsug3GiQscGNlIyn5KNpNylbYOtMGkycWIJzoKg/prL+5h4ZpeBCfrIoZkB8Wi2BtII5N1g==",
+  "dgSpecHash": "0WecZ9vVPGr0p4cv4IJmOFkVO2cygTCXyrMr+n1ZhAMZwvQR7Dwb7jCc/GPjvKMoWVhUQI4bRu9/IJNR/2ewrQ==",
   "success": true,
-  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\05.SnakeMoves\\05.SnakeMoves.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\02.MultidimensionalArrays\\05.SnakeMoves\\05.SnakeMoves.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

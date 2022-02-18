@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aeynX9N04gsDfMF2LoA2w9cPP7c4Y3ZaCdNViafubu9sBmCBE9jbTGFNQdgowQAazV/hPkQH+boYMYmducZmOw==",
+  "dgSpecHash": "eFzf847GX9FhW6tZxfywToV2a9K5/7q7uZpOiM6SXFnMP13gvx0xWFMzKzS5Xa/WzeR+HpVNqsCUAYjBVRmxgA==",
   "success": true,
-  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\03.CustomMinFunction\\03.CustomMinFunction.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\05.FunctionalProgramming\\03.CustomMinFunction\\03.CustomMinFunction.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

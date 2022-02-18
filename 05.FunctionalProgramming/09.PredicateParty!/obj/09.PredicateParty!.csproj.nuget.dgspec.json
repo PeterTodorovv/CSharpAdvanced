@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\09.PredicateParty!\\09.PredicateParty!.csproj": {}
+    "D:\\c#Code\\softuniC#\\03.Advanced\\05.FunctionalProgramming\\09.PredicateParty!\\09.PredicateParty!.csproj": {}
   },
   "projects": {
-    "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\09.PredicateParty!\\09.PredicateParty!.csproj": {
+    "D:\\c#Code\\softuniC#\\03.Advanced\\05.FunctionalProgramming\\09.PredicateParty!\\09.PredicateParty!.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\09.PredicateParty!\\09.PredicateParty!.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\03.Advanced\\05.FunctionalProgramming\\09.PredicateParty!\\09.PredicateParty!.csproj",
         "projectName": "09.PredicateParty!",
-        "projectPath": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\09.PredicateParty!\\09.PredicateParty!.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\03.Advanced\\05.FunctionalProgramming\\09.PredicateParty!\\09.PredicateParty!.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\09.PredicateParty!\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\03.Advanced\\05.FunctionalProgramming\\09.PredicateParty!\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

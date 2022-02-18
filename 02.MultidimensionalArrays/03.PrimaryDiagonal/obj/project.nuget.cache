@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "smb/HxiGlKIWXMeITiuLEmg3usM4ftlfuJdC2YAxATS63huc9BEGh3JfSArAvjwqF9RMx+GsZA5HWKWca3Nc/A==",
+  "dgSpecHash": "LOkK6AyYAna1UhCPe3UdFKr4idtSXGJtBX4oEmir21/nVRryQ02swJTeTrTtovMMWm8D7x6sDvLACg1J3wD9OA==",
   "success": true,
-  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\03.PrimaryDiagonal\\03.PrimaryDiagonal.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\02.MultidimensionalArrays\\03.PrimaryDiagonal\\03.PrimaryDiagonal.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

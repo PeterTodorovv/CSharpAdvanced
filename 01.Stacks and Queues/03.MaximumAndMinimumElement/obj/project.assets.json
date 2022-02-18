@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\03.MaximumAndMinimumElement\\03.MaximumAndMinimumElement.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\03.Advanced\\01.Stacks and Queues\\03.MaximumAndMinimumElement\\03.MaximumAndMinimumElement.csproj",
       "projectName": "03.MaximumAndMinimumElement",
-      "projectPath": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\03.MaximumAndMinimumElement\\03.MaximumAndMinimumElement.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\03.Advanced\\01.Stacks and Queues\\03.MaximumAndMinimumElement\\03.MaximumAndMinimumElement.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\03.MaximumAndMinimumElement\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\03.Advanced\\01.Stacks and Queues\\03.MaximumAndMinimumElement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

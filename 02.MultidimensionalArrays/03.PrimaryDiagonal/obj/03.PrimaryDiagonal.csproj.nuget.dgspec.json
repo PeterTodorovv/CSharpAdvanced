@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\03.PrimaryDiagonal\\03.PrimaryDiagonal.csproj": {}
+    "D:\\c#Code\\softuniC#\\03.Advanced\\02.MultidimensionalArrays\\03.PrimaryDiagonal\\03.PrimaryDiagonal.csproj": {}
   },
   "projects": {
-    "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\03.PrimaryDiagonal\\03.PrimaryDiagonal.csproj": {
+    "D:\\c#Code\\softuniC#\\03.Advanced\\02.MultidimensionalArrays\\03.PrimaryDiagonal\\03.PrimaryDiagonal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\03.PrimaryDiagonal\\03.PrimaryDiagonal.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\03.Advanced\\02.MultidimensionalArrays\\03.PrimaryDiagonal\\03.PrimaryDiagonal.csproj",
         "projectName": "03.PrimaryDiagonal",
-        "projectPath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\03.PrimaryDiagonal\\03.PrimaryDiagonal.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\03.Advanced\\02.MultidimensionalArrays\\03.PrimaryDiagonal\\03.PrimaryDiagonal.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\03.PrimaryDiagonal\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\03.Advanced\\02.MultidimensionalArrays\\03.PrimaryDiagonal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

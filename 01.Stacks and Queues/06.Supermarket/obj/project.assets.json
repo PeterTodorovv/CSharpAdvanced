@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\06.Supermarket\\06.Supermarket.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\03.Advanced\\01.Stacks and Queues\\06.Supermarket\\06.Supermarket.csproj",
       "projectName": "06.Supermarket",
-      "projectPath": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\06.Supermarket\\06.Supermarket.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\03.Advanced\\01.Stacks and Queues\\06.Supermarket\\06.Supermarket.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\06.Supermarket\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\03.Advanced\\01.Stacks and Queues\\06.Supermarket\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

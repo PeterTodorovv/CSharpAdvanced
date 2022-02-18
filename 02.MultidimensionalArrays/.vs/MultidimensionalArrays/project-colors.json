@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1b5edd2d-1963-4b47-b4fe-0980887f4ea0": {
+      "ProjectGuid": "1b5edd2d-1963-4b47-b4fe-0980887f4ea0",
+      "DisplayName": "01.SumMatrixElements",
+      "ColorIndex": 0
+    },
+    "88a106c6-bbf5-4fa9-9d78-099b0a1dbd45": {
+      "ProjectGuid": "88a106c6-bbf5-4fa9-9d78-099b0a1dbd45",
+      "DisplayName": "01.DiagonalDifference",
+      "ColorIndex": 1
+    },
+    "61171d09-4e21-412e-8ba7-58729c03db76": {
+      "ProjectGuid": "61171d09-4e21-412e-8ba7-58729c03db76",
+      "DisplayName": "02.SquaresInMatrix",
+      "ColorIndex": 2
+    },
+    "ce8286ce-8d87-4a38-b45f-049505071849": {
+      "ProjectGuid": "ce8286ce-8d87-4a38-b45f-049505071849",
+      "DisplayName": "03.MaximalSum",
+      "ColorIndex": 3
+    },
+    "f18ac143-8496-42d8-a4a6-c3288ab0a2c6": {
+      "ProjectGuid": "f18ac143-8496-42d8-a4a6-c3288ab0a2c6",
+      "DisplayName": "04.MatrixShuffling",
+      "ColorIndex": 4
+    },
+    "eb045101-0410-478e-9b9d-8c1879694fba": {
+      "ProjectGuid": "eb045101-0410-478e-9b9d-8c1879694fba",
+      "DisplayName": "05.SnakeMoves",
+      "ColorIndex": 5
+    },
+    "a8513e46-f928-4652-b03d-0e73e4215756": {
+      "ProjectGuid": "a8513e46-f928-4652-b03d-0e73e4215756",
+      "DisplayName": "06.JaggedArrayManipulator",
+      "ColorIndex": 6
+    },
+    "8104bff0-e389-4814-8d43-3e7cd7659c85": {
+      "ProjectGuid": "8104bff0-e389-4814-8d43-3e7cd7659c85",
+      "DisplayName": "07.KnightGame",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

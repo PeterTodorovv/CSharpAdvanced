@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mWEUY3Ehez6GQfqWmhkySvUgMw7xFEWzM+sBJCghx6v8rgLq40ZJZJ72uCe30yofq3wvSLBO2E6qeIiKIB8nEw==",
+  "dgSpecHash": "o5YDALYb2Z7UGFb7XeV/vsjwTKhywwpHTpxvA8/27ZnbE+l1qooqR8l6ZQwNwk2ktcx5ubHYEZyo6gzn0EmGsQ==",
   "success": true,
-  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\06.Jagged-ArrayModification\\06.Jagged-ArrayModification.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\02.MultidimensionalArrays\\06.Jagged-ArrayModification\\06.Jagged-ArrayModification.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

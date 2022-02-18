@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a5e23dac-1c0a-449e-aa79-52439f2a9f6e": {
+      "ProjectGuid": "a5e23dac-1c0a-449e-aa79-52439f2a9f6e",
+      "DisplayName": "01.Blacksmith",
+      "ColorIndex": 0
+    },
+    "82297e59-328c-4cb3-ad51-e45ab87bc787": {
+      "ProjectGuid": "82297e59-328c-4cb3-ad51-e45ab87bc787",
+      "DisplayName": "CocktailParty",
+      "ColorIndex": 1
+    },
+    "2d319f8e-eeb4-41b8-9929-41c2958b2b26": {
+      "ProjectGuid": "2d319f8e-eeb4-41b8-9929-41c2958b2b26",
+      "DisplayName": "02.Armory",
+      "ColorIndex": 2
+    },
+    "309cf7b4-e270-4d37-b176-a505d09401e7": {
+      "ProjectGuid": "309cf7b4-e270-4d37-b176-a505d09401e7",
+      "DisplayName": "02.PawnWars",
+      "ColorIndex": 3
+    },
+    "13976ecb-738b-4ae8-8d6a-314378e7efa2": {
+      "ProjectGuid": "13976ecb-738b-4ae8-8d6a-314378e7efa2",
+      "DisplayName": "02.SuperMarioV2",
+      "ColorIndex": 4
+    },
+    "1a4f63bd-5cf2-4904-96ec-ecef12fcd234": {
+      "ProjectGuid": "1a4f63bd-5cf2-4904-96ec-ecef12fcd234",
+      "DisplayName": "Drones",
+      "ColorIndex": 5
+    },
+    "f4de6759-898c-47b0-a5c8-2e5e6227e5cd": {
+      "ProjectGuid": "f4de6759-898c-47b0-a5c8-2e5e6227e5cd",
+      "DisplayName": "StreetRacing",
+      "ColorIndex": 6
+    },
+    "b1f39528-e0a7-4834-aef4-445fc5098daf": {
+      "ProjectGuid": "b1f39528-e0a7-4834-aef4-445fc5098daf",
+      "DisplayName": "SkiRental",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

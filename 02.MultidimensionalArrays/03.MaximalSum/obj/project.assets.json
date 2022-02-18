@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\03.MaximalSum\\03.MaximalSum.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\03.Advanced\\02.MultidimensionalArrays\\03.MaximalSum\\03.MaximalSum.csproj",
       "projectName": "03.MaximalSum",
-      "projectPath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\03.MaximalSum\\03.MaximalSum.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\03.Advanced\\02.MultidimensionalArrays\\03.MaximalSum\\03.MaximalSum.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\03.MaximalSum\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\03.Advanced\\02.MultidimensionalArrays\\03.MaximalSum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

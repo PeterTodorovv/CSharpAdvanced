@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F8snpJKSn2GzYdp9bRdgWNCbTfK+J4OuE3lrT44xRxJTPoXMjKHnBu4zHkbgaGpaR69R9ob7Ok292Fi3/yGKyg==",
+  "dgSpecHash": "q/WzTDO/Mxg2UKLVyDUroRBxLwZ/ZFb07FbIxRcjCIvRkm4StHJsMeOc1xVVzjMW1gkTsXYswzIerLiH11/Oww==",
   "success": true,
-  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\04.MatrixShuffling\\04.MatrixShuffling.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\02.MultidimensionalArrays\\04.MatrixShuffling\\04.MatrixShuffling.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

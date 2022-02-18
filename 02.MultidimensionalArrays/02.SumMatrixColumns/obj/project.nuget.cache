@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zG18/C1hotP6b+Wxtl/uHEjC9JC8P1oxjQRYvT90A11jJiieoOP1P1NCnVn6TdZFelJExYPk1uk7c6m/aFFrVQ==",
+  "dgSpecHash": "wVSxgUHMYOQ6pxAtwQevm/AyaTNmuJupJN+1vXuIGVafNwbth2+HP7hnWvcLRq60KCxhj+GJ5aBZJaqxDKmwlg==",
   "success": true,
-  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\02.SumMatrixColumns\\02.SumMatrixColumns.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\02.MultidimensionalArrays\\02.SumMatrixColumns\\02.SumMatrixColumns.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

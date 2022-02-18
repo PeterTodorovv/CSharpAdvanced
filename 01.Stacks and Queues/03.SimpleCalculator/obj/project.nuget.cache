@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2zsoq6lY6K36zRotgdO9LTGMxFsIRsGUf5ndf5Gsrb/eSRlj7kOms5Ttt1QZdV1vPoZVPBGDfYbZmvmkMGsZYg==",
+  "dgSpecHash": "YYyA870hynH1Q6SUAnB+CZU20moVvE8GBEVSLRjVxE7KyHoXsRixZRdqBuPzyElq0Pfq433ekAy3Bv+APqX7uw==",
   "success": true,
-  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\01.Stacks and Queues\\03.SimpleCalculator\\03.SimpleCalculator.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\01.Stacks and Queues\\03.SimpleCalculator\\03.SimpleCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

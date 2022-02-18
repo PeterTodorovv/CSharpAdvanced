@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4sAd/cLQPFRRaKCM/hM3foAG61YZH3HHibsHV6636iudFCDOq6/eGQGI+e2pct+OTZya8wZeakohsPhyPtFaZw==",
+  "dgSpecHash": "mt1j1zK9wzaJe9zqqerQreH2pdOQ+l4zYdEvrcGWznLsIfgzVyo3JpTOd4QIc2WccFQXu1U61LdtpPcFT1haPg==",
   "success": true,
-  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\06.Defining classes\\03.CarConstructors\\03.CarConstructors.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\06.Defining classes\\03.CarConstructors\\03.CarConstructors.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

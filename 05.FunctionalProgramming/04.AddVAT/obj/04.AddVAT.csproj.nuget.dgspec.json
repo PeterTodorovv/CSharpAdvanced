@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\04.AddVAT\\04.AddVAT.csproj": {}
+    "D:\\c#Code\\softuniC#\\03.Advanced\\05.FunctionalProgramming\\04.AddVAT\\04.AddVAT.csproj": {}
   },
   "projects": {
-    "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\04.AddVAT\\04.AddVAT.csproj": {
+    "D:\\c#Code\\softuniC#\\03.Advanced\\05.FunctionalProgramming\\04.AddVAT\\04.AddVAT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\04.AddVAT\\04.AddVAT.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\03.Advanced\\05.FunctionalProgramming\\04.AddVAT\\04.AddVAT.csproj",
         "projectName": "04.AddVAT",
-        "projectPath": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\04.AddVAT\\04.AddVAT.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\03.Advanced\\05.FunctionalProgramming\\04.AddVAT\\04.AddVAT.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\04.AddVAT\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\03.Advanced\\05.FunctionalProgramming\\04.AddVAT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\06.Defining classes\\02.CarExtension\\02.CarExtension.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\03.Advanced\\06.Defining classes\\02.CarExtension\\02.CarExtension.csproj",
       "projectName": "02.CarExtension",
-      "projectPath": "D:\\c#Code\\softuniC#\\advanced\\06.Defining classes\\02.CarExtension\\02.CarExtension.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\03.Advanced\\06.Defining classes\\02.CarExtension\\02.CarExtension.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "D:\\c#Code\\softuniC#\\advanced\\06.Defining classes\\02.CarExtension\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\03.Advanced\\06.Defining classes\\02.CarExtension\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

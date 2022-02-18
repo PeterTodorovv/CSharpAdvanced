@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\06.ReverseAndExclude\\06.ReverseAndExclude.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\03.Advanced\\05.FunctionalProgramming\\06.ReverseAndExclude\\06.ReverseAndExclude.csproj",
       "projectName": "06.ReverseAndExclude",
-      "projectPath": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\06.ReverseAndExclude\\06.ReverseAndExclude.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\03.Advanced\\05.FunctionalProgramming\\06.ReverseAndExclude\\06.ReverseAndExclude.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\06.ReverseAndExclude\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\03.Advanced\\05.FunctionalProgramming\\06.ReverseAndExclude\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

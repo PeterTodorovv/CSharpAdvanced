@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "523eabf6-8c13-48ad-98ef-3532f96bd6bf": {
+      "ProjectGuid": "523eabf6-8c13-48ad-98ef-3532f96bd6bf",
+      "DisplayName": "01.ActionPrint",
+      "ColorIndex": 0
+    },
+    "8ca0021e-255d-47eb-9803-58b0f5956b26": {
+      "ProjectGuid": "8ca0021e-255d-47eb-9803-58b0f5956b26",
+      "DisplayName": "02.KnightsOfHonor",
+      "ColorIndex": 1
+    },
+    "94c77e11-8467-4eed-a530-2801f1af30e6": {
+      "ProjectGuid": "94c77e11-8467-4eed-a530-2801f1af30e6",
+      "DisplayName": "03.CustomMinFunction",
+      "ColorIndex": 2
+    },
+    "8e5d582f-b890-4389-a760-4b6e88e17fa3": {
+      "ProjectGuid": "8e5d582f-b890-4389-a760-4b6e88e17fa3",
+      "DisplayName": "04.FindEvensOrOdds",
+      "ColorIndex": 3
+    },
+    "091f38de-8da8-42a0-9016-b40e68bfbaf3": {
+      "ProjectGuid": "091f38de-8da8-42a0-9016-b40e68bfbaf3",
+      "DisplayName": "05.AppliedArithmetics",
+      "ColorIndex": 4
+    },
+    "fd6e67d7-e1a9-40ef-884f-3d4b0b3604fa": {
+      "ProjectGuid": "fd6e67d7-e1a9-40ef-884f-3d4b0b3604fa",
+      "DisplayName": "07.PredicateForNames",
+      "ColorIndex": 5
+    },
+    "020a4c73-1abb-4cf4-8a74-a38a8127fe58": {
+      "ProjectGuid": "020a4c73-1abb-4cf4-8a74-a38a8127fe58",
+      "DisplayName": "06.ReverseAndExclude",
+      "ColorIndex": 6
+    },
+    "3b6a0ba5-6ce7-4a37-9360-d6f03e124a6d": {
+      "ProjectGuid": "3b6a0ba5-6ce7-4a37-9360-d6f03e124a6d",
+      "DisplayName": "08.ListOfPredicates",
+      "ColorIndex": 7
+    },
+    "d81e072d-bb03-461b-b2ec-9e5c85f98e95": {
+      "ProjectGuid": "d81e072d-bb03-461b-b2ec-9e5c85f98e95",
+      "DisplayName": "09.PredicateParty!",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

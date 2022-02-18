@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Amm0ve+hCmAaZEiMf3U+sF1p+8UqUt38Zjw7VqgnDqoFYfKxNqUFC09X/1Rjh+ZTmNF7JpLfRmbHgDldZU3huw==",
+  "dgSpecHash": "HpNNzP2WuGhwbFa+LLpV3VYVIsmIcr4fZ15dNB49oH0UiHxUtLGmnmA+J3i87ZbRPP6HI8FrkvjGkpKyCVjqUg==",
   "success": true,
-  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\05.FunctionalProgramming\\03.CountUppercaseWords\\03.CountUppercaseWords.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\05.FunctionalProgramming\\03.CountUppercaseWords\\03.CountUppercaseWords.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

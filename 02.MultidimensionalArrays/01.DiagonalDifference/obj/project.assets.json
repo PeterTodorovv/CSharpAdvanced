@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\01.DiagonalDifference\\01.DiagonalDifference.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\03.Advanced\\02.MultidimensionalArrays\\01.DiagonalDifference\\01.DiagonalDifference.csproj",
       "projectName": "01.DiagonalDifference",
-      "projectPath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\01.DiagonalDifference\\01.DiagonalDifference.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\03.Advanced\\02.MultidimensionalArrays\\01.DiagonalDifference\\01.DiagonalDifference.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\01.DiagonalDifference\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\03.Advanced\\02.MultidimensionalArrays\\01.DiagonalDifference\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

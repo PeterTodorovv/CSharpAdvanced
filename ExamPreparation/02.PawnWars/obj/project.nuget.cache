@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wbATiGKRTu5mw+AqvyJ7WhTmB43fgbfF/9FXsSixsTmn8MBm/ME10tW1r/dTNZfypodTHcHI4jGCx/mB5PnjHA==",
+  "dgSpecHash": "GZ7+nXi5JxydywjMAKy+jI9axnZwmFTRcC9gpAzAfytpuRrj6z5KOpaejs5AzrvZkHvUR+jfusFkMvPEXQMR7g==",
   "success": true,
   "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\ExamPreparation\\02.PawnWars\\02.PawnWars.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

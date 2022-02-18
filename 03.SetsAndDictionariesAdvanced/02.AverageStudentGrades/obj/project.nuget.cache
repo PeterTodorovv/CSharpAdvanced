@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VpQqm+MZzS3YjZkR42R7Udk0891zD+bOqftDsmq03oiklL9Y8PVo6YFsF088de1EZWON13ZE2+iT0JLgVedY3g==",
+  "dgSpecHash": "1nI/Q9MlZH5eNLfd7cUHQEPvzm7PZS6+JbhJYriY4umge0EPUAjrmtv77YKUyjgxenrAhPI+QC2Tq7K55JX8qQ==",
   "success": true,
-  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\03.SetsAndDictionariesAdvanced\\02.AverageStudentGrades\\02.AverageStudentGrades.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\03.SetsAndDictionariesAdvanced\\02.AverageStudentGrades\\02.AverageStudentGrades.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

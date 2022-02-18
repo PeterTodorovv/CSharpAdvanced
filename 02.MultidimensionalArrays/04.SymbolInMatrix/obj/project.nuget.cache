@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WqT3vQC9OS+g11LGuNfZvVMCHLRzLNv9M+/j65du8MFOWBPGcXVdj2kvbIzCqbZlBJ1ficU3m9jYP7ltjeaE5w==",
+  "dgSpecHash": "WQKGHth+PM11deMWYzUt35SwV4AcwhhgclqWRBzc8q69HEh2rRcYAPFMrQAJd0jLS8jXeNOD5efFvOva9snIzQ==",
   "success": true,
-  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\02.MultidimensionalArrays\\04.SymbolInMatrix\\04.SymbolInMatrix.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\02.MultidimensionalArrays\\04.SymbolInMatrix\\04.SymbolInMatrix.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+mbqIJPXikffbuxcfRILCMYKkMCfnoqjOMcpBGEIt1MNkIp42gYhXB2V08tKvo5rj8zmeCJ9SIYUEG2l8mpC8Q==",
+  "dgSpecHash": "qqw64zwZC9w0XK/FGj7EFiS6ws7JmSdw8mAIQrJOtHQzqasXymHeaPMKHYW8TDm1bbR6fRSYW6lss7nPvf5ohQ==",
   "success": true,
-  "projectFilePath": "D:\\c#Code\\softuniC#\\advanced\\03.SetsAndDictionariesAdvanced\\05.RecordUniqueNames\\05.RecordUniqueNames.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\03.Advanced\\03.SetsAndDictionariesAdvanced\\05.RecordUniqueNames\\05.RecordUniqueNames.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

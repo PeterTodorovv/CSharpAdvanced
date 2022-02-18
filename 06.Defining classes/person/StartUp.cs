@@ -19,10 +19,12 @@ namespace DefiningClasses
                 people.Add(new Person(name, age));
             }
 
-            foreach(var person in people.Where(a => a.Age > 30).OrderBy(p => p.Name))
+            Console.WriteLine($"{people.OrderByDescending(p => p.Age).First().Name} {people.OrderByDescending(p => p.Age).First().Age}");
+            /*foreach(var person in people.Where(a => a.Age > 30).OrderBy(p => p.Name))
             {
                 Console.WriteLine($"{person.Name} - {person.Age}");
             }
+            */
         }
     }
 }
