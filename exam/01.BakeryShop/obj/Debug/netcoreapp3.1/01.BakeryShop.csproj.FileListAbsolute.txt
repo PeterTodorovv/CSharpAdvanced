@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\03.Advanced\exam\01.BakeryShop\bin\Debug\netcoreapp3.1\01.BakeryShop.exe
+D:\c#Code\softuniC#\03.Advanced\exam\01.BakeryShop\bin\Debug\netcoreapp3.1\01.BakeryShop.deps.json
+D:\c#Code\softuniC#\03.Advanced\exam\01.BakeryShop\bin\Debug\netcoreapp3.1\01.BakeryShop.runtimeconfig.json
+D:\c#Code\softuniC#\03.Advanced\exam\01.BakeryShop\bin\Debug\netcoreapp3.1\01.BakeryShop.runtimeconfig.dev.json
+D:\c#Code\softuniC#\03.Advanced\exam\01.BakeryShop\bin\Debug\netcoreapp3.1\01.BakeryShop.dll
+D:\c#Code\softuniC#\03.Advanced\exam\01.BakeryShop\bin\Debug\netcoreapp3.1\01.BakeryShop.pdb
+D:\c#Code\softuniC#\03.Advanced\exam\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\03.Advanced\exam\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\03.Advanced\exam\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\03.Advanced\exam\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.AssemblyInfo.cs
+D:\c#Code\softuniC#\03.Advanced\exam\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\03.Advanced\exam\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.dll
+D:\c#Code\softuniC#\03.Advanced\exam\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.pdb
+D:\c#Code\softuniC#\03.Advanced\exam\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.genruntimeconfig.cache

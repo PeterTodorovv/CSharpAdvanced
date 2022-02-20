@@ -40,7 +40,27 @@
       "ProjectGuid": "b1f39528-e0a7-4834-aef4-445fc5098daf",
       "DisplayName": "SkiRental",
       "ColorIndex": 7
+    },
+    "18f10167-3229-49bd-8e3e-4a25e05c8c28": {
+      "ProjectGuid": "18f10167-3229-49bd-8e3e-4a25e05c8c28",
+      "DisplayName": "01.Scheduling",
+      "ColorIndex": 8
+    },
+    "6ac1b69a-d057-4b77-ad46-01fd4d6b7047": {
+      "ProjectGuid": "6ac1b69a-d057-4b77-ad46-01fd4d6b7047",
+      "DisplayName": "02.Garden",
+      "ColorIndex": 9
+    },
+    "5794106d-fec0-4440-abbe-b7b9e4be23be": {
+      "ProjectGuid": "5794106d-fec0-4440-abbe-b7b9e4be23be",
+      "DisplayName": "02.SuperMario",
+      "ColorIndex": 10
+    },
+    "104ed9ce-5c9c-4350-ad59-52bde4cbbf69": {
+      "ProjectGuid": "104ed9ce-5c9c-4350-ad59-52bde4cbbf69",
+      "DisplayName": "ClassroomProject",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 12
 }

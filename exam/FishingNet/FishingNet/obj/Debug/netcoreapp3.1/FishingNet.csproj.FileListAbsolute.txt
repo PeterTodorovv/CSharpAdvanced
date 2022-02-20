@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\03.Advanced\exam\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.exe
+D:\c#Code\softuniC#\03.Advanced\exam\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.deps.json
+D:\c#Code\softuniC#\03.Advanced\exam\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.runtimeconfig.json
+D:\c#Code\softuniC#\03.Advanced\exam\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.runtimeconfig.dev.json
+D:\c#Code\softuniC#\03.Advanced\exam\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.dll
+D:\c#Code\softuniC#\03.Advanced\exam\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.pdb
+D:\c#Code\softuniC#\03.Advanced\exam\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\03.Advanced\exam\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\03.Advanced\exam\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\03.Advanced\exam\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.AssemblyInfo.cs
+D:\c#Code\softuniC#\03.Advanced\exam\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\03.Advanced\exam\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.dll
+D:\c#Code\softuniC#\03.Advanced\exam\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.pdb
+D:\c#Code\softuniC#\03.Advanced\exam\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.genruntimeconfig.cache

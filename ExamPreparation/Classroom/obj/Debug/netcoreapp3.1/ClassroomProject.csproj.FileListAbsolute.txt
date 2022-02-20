@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.exe
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.deps.json
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.json
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.dev.json
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.dll
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.pdb
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfo.cs
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.dll
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.pdb
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.genruntimeconfig.cache

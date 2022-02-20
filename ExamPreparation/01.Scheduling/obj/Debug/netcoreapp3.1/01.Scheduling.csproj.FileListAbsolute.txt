@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.exe
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.deps.json
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.runtimeconfig.json
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.runtimeconfig.dev.json
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.dll
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\01.Scheduling\bin\Debug\netcoreapp3.1\01.Scheduling.pdb
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.AssemblyInfo.cs
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.dll
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.pdb
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\01.Scheduling\obj\Debug\netcoreapp3.1\01.Scheduling.genruntimeconfig.cache

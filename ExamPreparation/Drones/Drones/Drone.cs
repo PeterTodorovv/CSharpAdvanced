@@ -12,10 +12,10 @@ namespace Drones
             Availabe = true;
         }
 
-        public string Name { get; set; }
-        public string Brand { get; set; }
-        public int Range { get; set; }
-        public bool Availabe { get; set; }
+        public string Name;
+        public string Brand;
+        public int Range;
+        public bool Availabe;
 
         public override string ToString()
         {

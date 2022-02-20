@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.exe
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.deps.json
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.runtimeconfig.json
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.runtimeconfig.dev.json
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.dll
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.Garden\bin\Debug\netcoreapp3.1\02.Garden.pdb
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.AssemblyInfo.cs
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.dll
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.pdb
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.genruntimeconfig.cache
+D:\c#Code\softuniC#\03.Advanced\ExamPreparation\02.Garden\obj\Debug\netcoreapp3.1\02.Garden.csproj.AssemblyReference.cache
